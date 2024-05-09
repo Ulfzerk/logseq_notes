@@ -30,7 +30,7 @@
 	- Axiom 2
 	  P(\Omega) = 1
 	  This assumption of unit measure: The probability that at least one of the elementary events in the entire sample space will occur is 1. 
-	  That means that probability that any of the events from sample space ouccr is 1.
+	  That means that probability that any of the events from sample space occur is 1.
 	- Axiom 3
 	- Why do we need them?
 -
