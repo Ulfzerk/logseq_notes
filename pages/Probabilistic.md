@@ -20,7 +20,7 @@
 	- Defintions:
 	  A - Event
 	  P(A) - function of probability/occurance of event A
-	  \Omega - All possible outcomes
+	  \Omega / E- All possible outcomes
 	  F - event space - all possible events
 	  Not that events are not outcomes of events.
 	-
@@ -37,4 +37,6 @@
 	- Why do we need them?
 	- \sigma-algebra - TODO
 	- de Morgan's Law - TODO
--
+	- Theorem (Sum Rule)
+	  From A + ~A = E we get
+	  P(A) + P(~A) = P(E) = 1, thus P(A) = 1 - P(
