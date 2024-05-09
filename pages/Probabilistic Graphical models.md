@@ -12,7 +12,7 @@
 	- P(A) - Prior - probability of event before inference e.g. How often someone is ill with covid? It is unconditioned.
 	- P(B|A) - Likelihood - conditional probability of an event given observations. e.g. How probable is to have covid given a positive test.
 	- Denominator - where we relate probabilities with all possible observations of the data. So it is a normalization based on all possibilities.
-	-
+	- ![image.png](../assets/image_1715256177018_0.png)
 	-
 	-
 	-
