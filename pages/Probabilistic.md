@@ -76,4 +76,5 @@
 	- ![image.png](../assets/image_1715260594800_0.png)
 	-
 - How does it related to Machine learning
-	-
+	- Statistical Learning Theory
+	- Probabilistic Learning
