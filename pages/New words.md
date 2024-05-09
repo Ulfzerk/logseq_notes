@@ -1,1 +1,3 @@
 - Plausible - prawdopodobne, wydaje sie sensowne, możliwe do wykonania.
+- Conversant - biegły w czymś, dobrze znający
+-
