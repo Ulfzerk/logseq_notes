@@ -63,8 +63,16 @@
 	- Theorem (Payes Theorem)
 	  Bayes' theorem, named after the Reverend Thomas Bayes, is a fundamental concept in probability theory and statistics. It provides a way of updating probabilities based on new evidence or information. The theorem is particularly useful in situations where we want to determine the probability of an event given some prior knowledge and new data.
 	  Mathematically, Bayes' theorem can be expressed as:
-	-
-	-
+	- \[ P(A|B) = \frac{P(B|A) \times P(A)}{P(B)} \]
+	  
+	  Where:
+	- \( P(A|B) \) is the probability of event A occurring given that event B has occurred.
+	- \( P(B|A) \) is the probability of event B occurring given that event A has occurred.
+	- \( P(A) \) and \( P(B) \) are the probabilities of events A and B occurring independently of each other.
+	- In words, Bayes' theorem states that the probability of event A given event B is proportional to the
+		- probability of event B given event A, multiplied by the prior probability of event A
+		- and normalized by the probability of event B.
+	- Bayes' theorem has applications in various fields, including medical diagnosis, spam filtering, machine learning, and even philosophy. It provides a formal framework for updating beliefs or hypotheses in light of new evidence, making it a powerful tool for decision-making under uncertainty.
 	-
 	-
 -
