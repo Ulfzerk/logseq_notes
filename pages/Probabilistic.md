@@ -49,5 +49,12 @@
 	  and it gives
 	  P(A,B) = P(B|A)P(A) = P(A|B)P(B)
 	- Theorem (Law of total probality)
-	  Let A_1 + A_2 ... A_n = E and A_i \cap A_j = \empty if i \noteq j
+	  Let A_1 + A_2 ... A_n = E and A_i \cap A_j = \empty if i \notequal j then for any X in F, 
+	  P(X) = \sum_{i=1} P(X|A_i)P(A_j)
+	-
+	-
+	-
+	-
+	-
+	-
 -
