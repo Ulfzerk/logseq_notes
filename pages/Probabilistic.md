@@ -48,5 +48,6 @@
 	  P(B|A) = P(A,B) / P(A)
 	  and it gives
 	  P(A,B) = P(B|A)P(A) = P(A|B)P(B)
-	-
+	- Theorem (Law of total probality)
+	  Let A_1 + A_2 ... A_n
 -
