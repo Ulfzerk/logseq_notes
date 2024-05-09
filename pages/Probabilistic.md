@@ -22,18 +22,14 @@
 	  P(A) - function of probability/occurance of event A
 	  \Omega - All possible outcomes
 	  F - event space - all possible events
-	-
-	-
-	-
+	  Not that events are not outcomes of events.
 	-
 	- Axiom 1
 	  The probability of an event is a non-negative real number. 
 	  P(A) \in $\mathcal{R}$, P(A) > 0,  \forall A \in F \]
-	  Where F is sample space
-	-
-	-
-	-
 	- Axiom 2
+	  P(\Omega) = 1
+	  This
 	- Axiom 3
 	- Why do we need them?
 -
