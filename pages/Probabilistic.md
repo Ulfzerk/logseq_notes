@@ -17,9 +17,16 @@
 	- What are axioms?
 		- These axioms are foundations of probability theory introduced by Andrey Kolmogorov in 1933
 		  Axioms are fundamental principles or statements taken to be true without requiring proof within a particular system of thought of field of study. They serve as starting point or foundational concepts upon which other propositions and theorems are built.
+	- Defintions:
+	  A - Event
+	  P(A) - function of probability/occurance of event A
+	  F - Sample space (space of all outcomes)
+	  \omega
+	-
 	- Axiom 1
 	  The probability of an event is a non-negative real number. 
 	  P(A) \in $\mathcal{R}$, P(A) > 0,  \forall A \in F \]
+	  Where F is sample space
 	-
 	-
 	-
