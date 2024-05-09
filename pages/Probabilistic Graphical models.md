@@ -6,4 +6,5 @@
 	- Unobserved (latent) - hypothesis - latent quantity etc.
 - Notes
 	- This kind of reasoning is computably expensive, so it is common to use approximations, tricks and tricks.
--
+- Baysian Teorem
+	- $$A$$
