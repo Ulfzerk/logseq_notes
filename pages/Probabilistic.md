@@ -51,6 +51,7 @@
 	- Theorem (Law of total probality)
 	  Let A_1 + A_2 ... A_n = E and A_i \cap A_j = \empty if i \notequal j then for any X in F, 
 	  P(X) = \sum_{i=1} P(X|A_i)P(A_j)
+	  It says that we can write a probability of random variable X as sum of conditional
 	-
 	-
 	-
