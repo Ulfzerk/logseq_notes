@@ -2,4 +2,4 @@
 - Conversant - biegły w czymś, dobrze znający
 - contemporary - współczesny, dzisiejszy, nowożytni
 - comparatively - porównywanie, stosunkowo
--
+- quotient - iloraz
