@@ -16,7 +16,7 @@
 - ### Probability axioms (Kolmogorov axioms)
 	- What are axioms?
 		- These axioms are foundations of probability theory introduced by Andrey Kolmogorov in 1933
-		  Axioms are fundamental principles or statements taken to be true without requiring proof within a particular system of thought of field of study.
+		  Axioms are fundamental principles or statements taken to be true without requiring proof within a particular system of thought of field of study. They serve as starting point or foundational concepts upon which other propositions and theorems are built.
 	- Axiom 1
 	- Axiom 2
 	- Axiom 3
