@@ -13,4 +13,11 @@
 	- P(B|A) - Likelihood - conditional probability of an event given observations. e.g. How probable is to have covid given a positive test.
 	- Denominator - where we relate probabilities with all possible observations of the data. So it is a normalization based on all possibilities.
 	- ![image.png](../assets/image_1715256177018_0.png)
-	- ### Probability axioms (Kolmogorov axioms)
+- ### Probability axioms (Kolmogorov axioms)
+	- What are axioms?
+		- These axioms are foun
+	- Axiom 1
+	- Axiom 2
+	- Axiom 3
+	- Why do we need them?
+-
