@@ -49,9 +49,16 @@
 	  and it gives
 	  P(A,B) = P(B|A)P(A) = P(A|B)P(B)
 	- Theorem (Law of total probality)
-	  Let A_1 + A_2 ... A_n = E and A_i \cap A_j = \empty if i \notequal j then for any X in F, 
-	  P(X) = \sum_{i=1} P(X|A_i)P(A_j)
-	  It says that we can write a probability of random variable X as sum of conditional
+	  The Law of Total Probability is a fundamental principle in probability theory that provides a way to compute the probability of an event by considering all possible ways the event could occur, each weighted by its respective probability. It is often used when dealing with compound events or when the occurrence of one event depends on the occurrence of another.
+	  \[ P(A) = \sum_{i} P(A \cap B_i) \]
+	  \[
+	  P(A) = \sum_{i} P(A \cap B_i)
+	  \]
+	- where:
+	  𝑃(𝐴)*P*(*A*) is the probability of event 𝐴*A*,
+	  𝐵1,𝐵2,...,𝐵𝑛*B*1​,*B*2​,...,*B**n*​ are mutually exclusive and exhaustive events (meaning that they cover all possible outcomes and do not overlap), and
+	- 𝑃(𝐴∩𝐵𝑖)*P*(*A*∩*B**i*​) is the probability of event 𝐴*A* occurring given that event 𝐵𝑖*B**i*​ has occurred, multiplied by the probability of event 𝐵𝑖*B**i*​ occurring.
+	-
 	-
 	-
 	-
