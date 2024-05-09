@@ -11,7 +11,7 @@
 	- P(A|B) - Posterior probability, so probablity after seeing observations. Result of inference?
 	- P(A) - Prior - probablity of event before inference e.g How often someone is ill with covid? It is unconditioned.
 	- P(B|A) - Likelihood - conditional probablity of an event given obervations. e.g How probable is to have covid given a positive test.
-	-
+	- Denominator - where we relate probabilites with
 	-
 	-
 	-
