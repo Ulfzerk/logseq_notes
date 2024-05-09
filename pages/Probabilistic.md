@@ -35,4 +35,6 @@
 	  If we have a sequence of mutually exclusive events (events that cannot occur simultaneusly), then the probability of the union of these events is equal to the sum of their individual probabilities. Mathematically if A_1, A_2, A_3... are mutually exclusive events then the probability of their union is 
 	  $P\left(\bigcup_{i=1}^{\infty} A_i\right) = \sum_{i=1}^{\infty} P(A_i)$
 	- Why do we need them?
+	- \sigma-algebra
+	-
 -
