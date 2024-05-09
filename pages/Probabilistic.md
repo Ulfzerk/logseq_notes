@@ -32,6 +32,8 @@
 	  This assumption of unit measure: The probability that at least one of the elementary events in the entire sample space will occur is 1. 
 	  That means that probability that any of the events from sample space occur is 1.
 	- Axiom 3 - Additivity
-	  If we have a sequence of mutually exclusive events (events that cannot occur simultaneusly), then the probability of the union of these events is equal to the sum of their indi
+	  If we have a sequence of mutually exclusive events (events that cannot occur simultaneusly), then the probability of the union of these events is equal to the sum of their individual probabilities. Mathematically if A_1, A_2, A_3... are mutually exclusive events then the probability of their union is 
+	  $*P(⋃*i*=1∞​*A**i*​)=∑*i*=1∞​*P*(*A**i*​)$
+	-
 	- Why do we need them?
 -
