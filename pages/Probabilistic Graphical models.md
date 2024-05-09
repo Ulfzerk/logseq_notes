@@ -8,8 +8,9 @@
 	- This kind of reasoning is computably expensive, so it is common to use approximations, tricks and tricks.
 - Baysian Teorem
 	- $P(A|B)=\frac{P(B|A)P(A)}{P(B|A)P(A) +P(A|~B)P(~B)}$
-	- P(A|B) - Posterior probability,
+	- P(A|B) - Posterior probability, so probablity after seeing observations. Result of inference?
 	- P(A) - Prior - probablity of event before inference e.g How often someone is ill with covid? It is unconditioned.
+	- P(B|A) - Likelihood - conditional
 	-
 	-
 	-
