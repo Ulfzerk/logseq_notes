@@ -60,8 +60,9 @@
 	  𝑃(𝐴∩𝐵𝑖)*P*(*A*∩*B**i*​) is the probability of event 𝐴*A* occurring given that event 𝐵𝑖*B**i*​ has occurred, multiplied by the probability of event 𝐵𝑖*B**i*​ occurring.
 	  In simpler terms, it says that the probability of 𝐴*A* happening is the sum of the probabilities of 𝐴*A* happening given each possible condition (events 𝐵1,𝐵2,...,𝐵𝑛*B*1​,*B*2​,...,*B**n*​), each multiplied by the probability of that condition occurring.
 	  The Law of Total Probability is often used in conjunction with conditional probability to find the probability of an event when information about related events is known. It helps in breaking down complex probability problems into simpler, more manageable parts.
-	-
-	-
+	- Theorem (Payes Theorem)
+	  Bayes' theorem, named after the Reverend Thomas Bayes, is a fundamental concept in probability theory and statistics. It provides a way of updating probabilities based on new evidence or information. The theorem is particularly useful in situations where we want to determine the probability of an event given some prior knowledge and new data.
+	  Mathematically, Bayes' theorem can be expressed as:
 	-
 	-
 	-
