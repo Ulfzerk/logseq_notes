@@ -14,4 +14,5 @@
 	- Denominator - where we relate probabilities with all possible observations of the data. So it is a normalization based on all possibilities.
 	- ![image.png](../assets/image_1715256177018_0.png)
 	-
-	- ### Probability axioms (Ko)
+	- ### Probability axioms (Kolmogorov axioms)
+	-
