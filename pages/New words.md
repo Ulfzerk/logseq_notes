@@ -1,1 +1,1 @@
-- P
+- Plausible - prawdopodobne, wydaje sie sensowne, możliwe do wykonania.
