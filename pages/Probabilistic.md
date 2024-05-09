@@ -24,13 +24,14 @@
 	  F - event space - all possible events
 	  Not that events are not outcomes of events.
 	-
-	- Axiom 1
+	- Axiom 1 - Non-Negativity
 	  The probability of an event is a non-negative real number. 
 	  P(A) \in $\mathcal{R}$, P(A) > 0,  \forall A \in F \]
-	- Axiom 2
+	- Axiom 2 - Normalization
 	  P(\Omega) = 1
 	  This assumption of unit measure: The probability that at least one of the elementary events in the entire sample space will occur is 1. 
 	  That means that probability that any of the events from sample space occur is 1.
-	- Axiom 3
+	- Axiom 3 - Additivity
+	  If we have a sequence of mutually exclusive events (events that cannot occur simultaneusly), then the probability of the union of these events is equal to the sum of their indi
 	- Why do we need them?
 -
