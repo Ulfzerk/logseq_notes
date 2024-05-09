@@ -44,4 +44,9 @@
 	  A = A \cap (B+~B), using the notation P(A,B) = P(A \cap B) for the joint probability of A and B, we get the Sum Rule: 
 	  P(A) = P(A,B) + P(A,~B)
 	- Definition (Conditional Probability)
-	  If P(A) > 0, the quotient
+	  If P(A) > 0, the quotient: 
+	  P(B|A) = P(A,B) / P(A)
+	  and it gives
+	  P(A,B) = P(B|A)P(A) = P(A|B)P(B)
+	-
+-
