@@ -7,4 +7,5 @@
 - Notes
 	- This kind of reasoning is computably expensive, so it is common to use approximations, tricks and tricks.
 - Baysian Teorem
-	- $P(A|B)=(P(B|A)P(A))/P($
+	- $P(A|B)=\frac{P(B|A)P(A)})P(B|A)*P(A) +P(A|~B)P(~B)$
+	-
