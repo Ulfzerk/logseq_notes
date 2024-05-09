@@ -19,7 +19,8 @@
 		  Axioms are fundamental principles or statements taken to be true without requiring proof within a particular system of thought of field of study. They serve as starting point or foundational concepts upon which other propositions and theorems are built.
 	- Axiom 1
 	  The probability of an event is a non-negative real number. 
-	  $P(A) \in \mathcal{R}, P(A) > 0, A \subset F $
+	  P(A) \in $\mathcal{R}$, P(A) > 0,  \forall A \in F \]
+	-
 	-
 	-
 	- Axiom 2
