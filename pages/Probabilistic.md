@@ -40,5 +40,7 @@
 	- Theorem (Sum Rule)
 	  From A + ~A = E we get
 	  P(A) + P(~A) = P(E) = 1, thus P(A) = 1 - P(~A)
-	  Any from A = A \cap (B+~B), using the notation P(A,B) = P(A \cap B) for the joint probability of A and B, we get the Sum Rule: 
-	  P(A) = P(A,B) =
+	  Any from:
+	  A = A \cap (B+~B), using the notation P(A,B) = P(A \cap B) for the joint probability of A and B, we get the Sum Rule: 
+	  P(A) = P(A,B) + P(A,~B)
+	-
