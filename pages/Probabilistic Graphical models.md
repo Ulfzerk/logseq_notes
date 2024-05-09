@@ -4,4 +4,5 @@
 - Keywords / Glossary :
 	- Observed, Observations - data etc.
 	- Unobserved (latent) - hypothesis - latent quantity etc.
--
+- Notes
+	- This kind of reasoning is computenaly expensive, so it is common to use aproximations, tricks and tricks.
