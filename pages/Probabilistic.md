@@ -15,7 +15,8 @@
 	- ![image.png](../assets/image_1715256177018_0.png)
 - ### Probability axioms (Kolmogorov axioms)
 	- What are axioms?
-		- These axioms are foun
+		- These axioms are foundations of probability theory introduced by Andrey Kolmogorov in 1933
+		  Their goal is to formalize probabilite
 	- Axiom 1
 	- Axiom 2
 	- Axiom 3
