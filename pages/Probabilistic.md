@@ -20,8 +20,11 @@
 	- Defintions:
 	  A - Event
 	  P(A) - function of probability/occurance of event A
-	  F - Sample space (space of all outcomes)
-	  \omega
+	  \Omega - All possible outcomes
+	  F - event space - all possible events
+	-
+	-
+	-
 	-
 	- Axiom 1
 	  The probability of an event is a non-negative real number. 
