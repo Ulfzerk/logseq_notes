@@ -73,6 +73,6 @@
 		- probability of event B given event A, multiplied by the prior probability of event A
 		- and normalized by the probability of event B.
 	- Bayes' theorem has applications in various fields, including medical diagnosis, spam filtering, machine learning, and even philosophy. It provides a formal framework for updating beliefs or hypotheses in light of new evidence, making it a powerful tool for decision-making under uncertainty.
-	-
+	- ![image.png](../assets/image_1715260594800_0.png)
 	-
 -
