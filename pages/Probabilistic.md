@@ -48,17 +48,18 @@
 	  P(B|A) = P(A,B) / P(A)
 	  and it gives
 	  P(A,B) = P(B|A)P(A) = P(A|B)P(B)
-	- Theorem (Law of total probality)
+	- Theorem (Law of total probability)
 	  The Law of Total Probability is a fundamental principle in probability theory that provides a way to compute the probability of an event by considering all possible ways the event could occur, each weighted by its respective probability. It is often used when dealing with compound events or when the occurrence of one event depends on the occurrence of another.
 	  \[ P(A) = \sum_{i} P(A \cap B_i) \]
 	  \[
 	  P(A) = \sum_{i} P(A \cap B_i)
 	  \]
-	- where:
+	  where:
 	  𝑃(𝐴)*P*(*A*) is the probability of event 𝐴*A*,
 	  𝐵1,𝐵2,...,𝐵𝑛*B*1​,*B*2​,...,*B**n*​ are mutually exclusive and exhaustive events (meaning that they cover all possible outcomes and do not overlap), and
-	- 𝑃(𝐴∩𝐵𝑖)*P*(*A*∩*B**i*​) is the probability of event 𝐴*A* occurring given that event 𝐵𝑖*B**i*​ has occurred, multiplied by the probability of event 𝐵𝑖*B**i*​ occurring.
-	-
+	  𝑃(𝐴∩𝐵𝑖)*P*(*A*∩*B**i*​) is the probability of event 𝐴*A* occurring given that event 𝐵𝑖*B**i*​ has occurred, multiplied by the probability of event 𝐵𝑖*B**i*​ occurring.
+	  In simpler terms, it says that the probability of 𝐴*A* happening is the sum of the probabilities of 𝐴*A* happening given each possible condition (events 𝐵1,𝐵2,...,𝐵𝑛*B*1​,*B*2​,...,*B**n*​), each multiplied by the probability of that condition occurring.
+	  The Law of Total Probability is often used in conjunction with conditional probability to find the probability of an event when information about related events is known. It helps in breaking down complex probability problems into simpler, more manageable parts.
 	-
 	-
 	-
