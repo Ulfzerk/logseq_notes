@@ -11,4 +11,5 @@
 - The direction of the arrows is **not** a  causal statement.
 	- The alarm doesn't causes earthquakes ;)
 - We want to remove edges from graph to simplyfiy model.
+- Chain Graph - all nodes goes with the same direction A->B->C etc.
 -
