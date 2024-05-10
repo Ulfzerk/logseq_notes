@@ -14,7 +14,8 @@
 - Chain Graph - all nodes goes with the same direction A->B->C etc.
 	- P(A,B,C) = P(A) * P(B|A) * P(C|B)
 	- A is independent from B and C
-	-
+	- B is dependent on A
+	- C is dependent on B but not A.
 - Colider structure - A->B<-C
 - out - A<-B->C (Probably doesn't have a name)
 -
