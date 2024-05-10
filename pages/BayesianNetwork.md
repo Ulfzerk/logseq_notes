@@ -6,4 +6,5 @@
 -
 - # Notes
 - It is Acyclic!!!
+- "every probability distribution can be written as a graph" Dense graph
 -
