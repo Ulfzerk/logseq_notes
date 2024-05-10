@@ -12,6 +12,9 @@
 	- The alarm doesn't causes earthquakes ;)
 - We want to remove edges from graph to simplyfiy model.
 - Chain Graph - all nodes goes with the same direction A->B->C etc.
+	- P(A,B,C) = P(A) * P(B|A) * P(C|B)
+	- A is independent from B and C
+	-
 - Colider structure - A->B<-C
 - out - A<-B->C (Probably doesn't have a name)
 -
