@@ -10,3 +10,5 @@
 - By the Product Rule, every joint can be factorized into a (dense) DAG
 - The direction of the arrows is **not** a  causal statement.
 	- The alarm doesn't causes earthquakes ;)
+- We want to remove edges from graph to simplyfiy model.
+-
