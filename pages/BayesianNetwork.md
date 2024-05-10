@@ -23,3 +23,5 @@
 - out - A<-B->C (Probably doesn't have a name)
 	- A is dependent on C
 		- but is independent on C | B
+- Every probability distribution is a DAG, but not every independence structure of a distribution is captured by a DAG of it.
+-
