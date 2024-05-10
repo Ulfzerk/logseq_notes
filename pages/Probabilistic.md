@@ -80,4 +80,5 @@
 	- Probabilistic Learning
 - Definiotion (Independence)
   Two variable A and B are independent, if and only if their joint distributions factorizes into so-called marginal distributions, i.e 
-  P(A,B) = P(A)
+  P(A,B) = P(A)P(B)
+  In that case P(A|B) = P(A) Notation $A \
