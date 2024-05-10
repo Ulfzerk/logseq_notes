@@ -17,5 +17,8 @@
 	- B is dependent on A
 	- C is dependent on B but not A.
 - Colider structure - A->B<-C
+	- A is dependent on C |B
+		- but is independent on C itself
+	-
 - out - A<-B->C (Probably doesn't have a name)
 -
