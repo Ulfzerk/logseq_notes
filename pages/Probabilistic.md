@@ -78,3 +78,6 @@
 - How does it related to Machine learning
 	- Statistical Learning Theory
 	- Probabilistic Learning
+- Definiotion (Independence)
+  Two variable A and B are independent, if and only if their joint distributions factorizes into so-called marginal distributions, i.e 
+  P(A,B) = P(A)
