@@ -86,4 +86,6 @@
 - Computing with Probabilities
 	- Probablistic reasoning extends propositional logic
 	- Instead of tracking a single true value, we have to assign probabilities to combinatorially many hypotheses
-	- Two variables A and B are c
+	- Two variables A and B are conditionally independent given variable C if and only if their conditional distribution factorizes
+	  P(A,B|C) = P(A|C)P(B|C)
+	-
