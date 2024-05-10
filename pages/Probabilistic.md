@@ -83,4 +83,7 @@
   P(A,B) = P(A)P(B)
   In that case P(A|B) = P(A) Notation $A\perp\!\!\!\perp B$. Information about B does not give information about A and vice versa.
 -
--
+- Computing with Probabilities
+	- Probablistic reasoning extends propositional logic
+	- Instead of tracking a single true value, we have to assign probabilities to combinatorially many hypotheses
+	- Two variables A and B are c
