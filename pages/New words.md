@@ -3,3 +3,4 @@
 - contemporary - współczesny, dzisiejszy, nowożytni
 - comparatively - porównywanie, stosunkowo
 - quotient - iloraz
+- propositional logic - rachunek zdań.
