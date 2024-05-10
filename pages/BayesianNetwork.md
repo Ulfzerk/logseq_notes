@@ -9,4 +9,4 @@
 - "every probability distribution can be written as a graph" Dense graph
 - By the Product Rule, every joint can be factorized into a (dense) DAG
 - The direction of the arrows is **not** a  causal statement.
-	-
+	- The alarm doesn't causes earthquakes ;)
