@@ -118,5 +118,7 @@
 	  $P(E)= 1 = \int_{R^d} p(x) dx$
 	- Let X = (X_1, X_2) \in R^2 be a random variable with density p_x on \mathcal{R^2}. Then the **marginal densities** of X_1 and X_2 are given by the **sum rule**
 	  $p_{x_1} (x_1) = \int_{ \mathcal{R} } p_x (x_1, x_2) dx_2$ , $p_{x_2} (x_2) = \int_{ \mathcal{R} } p_x (x_1, x_2) dx_1$
+	- The **conditional density** p(x_1 | x_2) for P(x_2) >0 is given by the **product rule**
+	  $p(x_1|x_2) = \frac{p(x_1,x_2)}{p(x_2}
 	-
 	-
