@@ -92,5 +92,7 @@
 - #[[The Banach-Tarski Paradox]]
 - Definition (Topology)
   Let \Omega be a space and \tau be a collection of sets. We say \tau is a topology on \Omega if
-	-
+	- \Omega \in \tau and \empty \in \tau
+	- any union of elements of \tau is in \tau
+	- any intersection of finitely many elements of \tau is in \tau
 -
