@@ -5,3 +5,4 @@
 - quotient - iloraz
 - propositional logic - rachunek zdań.
 - Factorization - Rozkład na czynniki/faktoryzacja
+- univariate - jednowymiarowe (math)
