@@ -113,4 +113,5 @@
 	  $p(x) = \frac{\delta^d F}{\delta x_1 ... \delta x_d}|_x$
 	- and, for d=1 (one dimension)
 	  $P(a<=X <b) = F(b) - F(a) = \int_a^b f(x) dx$
--
+- Densities Satifsy the Laws of Probability Theory
+	- For
