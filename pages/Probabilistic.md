@@ -99,7 +99,9 @@
 - Random Variables allow us to define derived quantities from atomic events
 - Borel \sigma -algebras can be defined on all topological spaces, allowing us to define probabilities if the elementary space is contiunous
 - Note the connection to computability theory: **measurable** functions and **computable** functions. 'Not all sets are measurable", and "not all languages are computable'".
--
+- Definition (Cumulative Distribution Function (CDF))
+	- Let \mathcal{B} be the Borel \sigma - algebra in \mathcal{R}^d . For probability measures P on (\mathcal{R}^d, \mathcal{B}), the cumulative distribution function is the function 
+	  $F(x)$$$
 -
 -
 -
