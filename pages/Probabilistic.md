@@ -132,5 +132,6 @@
 - Theorem (Transformation Law, general)
   Let X = (X_1,....,X_d) have a joint density p_x. Let g: \mathcal{R}^d \rightarrow \mathcal{R}^d be continously differentiable and injective, with non-vanishing Jacobian J_g. Then Y = g(X) has density
   ![image.png](../assets/image_1715601725199_0.png)
-  The Jacobian J_g
+  The Jacobian J_g is the d x d matrix with
+  $[J_g(x)]ij = \frac{\delta g_i(x)}{\delta x_j}$
 -
