@@ -107,6 +107,7 @@
 	- ![Cumulative Distribution Function (CDF): Uses, Graphs & vs PDF - Statistics  By Jim](https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2023/02/CDF_normal_male.png?fit=576%2C384&ssl=1)
 -
 - Definition (Probability Density Functions (pdf's))
-	- A probability measure P on (\mathcal{R}^d,\mathcal{B}) has a density p if p is a non-negative (Borel) measurable function on \mathcal{R}^d sa
+	- A probability measure P on $(\mathcal{R}^d,\mathcal{B})$ has a density p if p is a non-negative (Borel) measurable function on \mathcal{R}^d satisfying, for all $B \in \mathcal{B}$
+	- $P(B) = \int_{B}
 -
 -
