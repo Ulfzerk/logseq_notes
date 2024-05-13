@@ -121,5 +121,6 @@
 	- The **conditional density** p(x_1 | x_2) for P(x_2) >0 is given by the **product rule**
 	  $p(x_1|x_2) = \frac{p(x_1,x_2)}{p(x_2}$
 	- Bayes' Theorem holds:
-	  p(x_1|x_2) = \frac{p(x_1)*p(x_2|x_1)}{\int p(x_1) * p(x_2|x_1)}
+	  $p(x_1|x_2) = \frac{p(x_1)*p(x_2|x_1)}{\int p(x_1) * p(x_2|x_1) dx_1}$
+	- Rabbit hole - Conditional Densities
 	-
