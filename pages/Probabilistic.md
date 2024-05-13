@@ -111,5 +111,6 @@
 	- $P(B) = \int_{B} p(x) dx =: \int_{B} p(x1,...,x_d) dx_1 ... dx_d$
 	- In particular, if the CDF F of P is sufficiently differentiable, then P has a density, given by 
 	  $p(x) = \frac{\delta^d F}{\delta x_1 ... \delta x_d}|_x$
-	- and, for d=1 (one dime)
+	- and, for d=1 (one dimension)
+	  $P(a<=X <b) = F(b) - F(a) = \int_a^b f(x) dx$
 -
