@@ -90,5 +90,7 @@
 	  P(A,B|C) = P(A|C)P(B|C)
 - #BayesianNetwork
 - #[[The Banach-Tarski Paradox]]
--
+- Definition (Topology)
+  Let \Omega be a space and \tau be a collection of sets. We say \tau is a topology on \Omega if
+	-
 -
