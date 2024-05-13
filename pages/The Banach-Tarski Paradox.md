@@ -6,4 +6,6 @@
 - There is no way to define volume in three dimensions unless one of the following five concessions is made:
 	- The volume of a set can change udner rotation
 	- The volume of a union of two disjoint sets can be different from the sum of their volumes
-	- Some se
+	- Some sets have to be called non-measurable, and we will have to chekc whether a set is measurable before taking its volume
+	- The ZFC (Zermelo-Fraenkel, with axiom of choice) axioms of set theory have to be changed
+	- The volume of [0,1]^3 is either 0 or $\inf$
