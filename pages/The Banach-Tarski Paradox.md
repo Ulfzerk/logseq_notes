@@ -1,0 +1,6 @@
+- The Banach-Tarski Paradox is a mind-bending result in mathematics that seems to defy common sense. It was formulated independently by the Polish mathematicians Stefan Banach and Alfred Tarski in 1924.
+- The paradox states that it's possible to take a solid sphere, such as a ball, and decompose it into a finite number of pieces. Then, by rotating and translating these pieces, without stretching or deforming them in any way, you can reassemble them to form two identical copies of the original sphere. In other words, you can create two identical spheres out of one, seemingly doubling the amount of space.
+- This paradox relies on the principles of set theory and non-measurable sets. The pieces into which the sphere is decomposed are not usual geometric shapes but rather abstract mathematical sets. These sets are constructed in such a way that they have certain properties that allow them to be rearranged to form two spheres of the same size as the original.
+- It's important to note that this paradox does not violate conservation of mass or energy since it deals with abstract mathematical constructs rather than physical objects. It's a demonstration of the strange and counterintuitive nature of infinity and the mathematical structures that describe it. However, it has no practical implications for the physical world.
+-
+-
