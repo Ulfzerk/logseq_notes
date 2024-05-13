@@ -103,7 +103,8 @@
 	- Let \mathcal{B} be the Borel \sigma - algebra in \mathcal{R}^d . For probability measures P on (\mathcal{R}^d, \mathcal{B}), the cumulative distribution function is the function 
 	  $F(x)=P(\prod_{i=1}^{d}  (X_i < x_i))$
 	- In particular for the univariate case d=1, we have F(x) = P((-\infty,x]).
-	-
+	- In multi dimensional problems we can multiply these volumes.
+	- ![Cumulative Distribution Function (CDF): Uses, Graphs & vs PDF - Statistics  By Jim](https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2023/02/CDF_normal_male.png?fit=576%2C384&ssl=1)
 -
 -
 -
