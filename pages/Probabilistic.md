@@ -130,4 +130,5 @@
   Let X be a continuous random variable with PDF px(X) over c_1 < x < c_2. And, let Y = u(X) be a monotonic differentiable function with inverse X = v(Y). Then the PDF of Y is:
   $p_y(y)=p_x(v(y))* |\frac{dv(y)}{dy} = p_x (v(y)) * |\frac{du(x)}{dx}|^-{1}$
 - Theorem (Transformation Law, general)
-  Let X = (X_1,....,X_d)
+  Let X = (X_1,....,X_d) have a joint density p_x. Let g: \mathcal{R}^d \rightarrow \mathcal{R}^d be continously differentiable and injective, with non-vanishing Jacobian J_g. Then Y = g(X) has density
+  $P_y (y) $
