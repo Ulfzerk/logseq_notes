@@ -132,3 +132,4 @@
 - Theorem (Transformation Law, general)
   Let X = (X_1,....,X_d) have a joint density p_x. Let g: \mathcal{R}^d \rightarrow \mathcal{R}^d be continously differentiable and injective, with non-vanishing Jacobian J_g. Then Y = g(X) has density
   $P_y (y)=$
+-
