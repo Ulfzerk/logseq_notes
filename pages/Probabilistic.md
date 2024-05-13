@@ -128,5 +128,5 @@
 	- The background plot is sum of these distributions.
 - Theorem (Change of Variable for Probability Density Functions)
   Let X be a continuous random variable with PDF px(X) over c_1 < x < c_2. And, let Y = u(X) be a monotonic differentiable function with inverse X = v(Y). Then the PDF of Y is:
-  $p_y(y)=p_x(v(y))* |\frac{dv(y)}{dy} = p_x (v(y)) * |\frac{du(x)}{dx}|^-1$
+  $p_y(y)=p_x(v(y))* |\frac{dv(y)}{dy} = p_x (v(y)) * |\frac{du(x)}{dx}|^-{1}$
 -
