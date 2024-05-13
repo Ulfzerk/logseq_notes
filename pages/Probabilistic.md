@@ -108,6 +108,7 @@
 -
 - Definition (Probability Density Functions (pdf's))
 	- A probability measure P on $(\mathcal{R}^d,\mathcal{B})$ has a density p if p is a non-negative (Borel) measurable function on \mathcal{R}^d satisfying, for all $B \in \mathcal{B}$
-	- $P(B) = \int_{B}
+	- $P(B) = \int_{B} p(x) dx =: \int_{B} p(x1,...,x_d) dx_1 ... dx_d$
+	- In particular, if the CDF F of P is sufficiently
 -
 -
