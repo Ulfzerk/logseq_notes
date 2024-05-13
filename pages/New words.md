@@ -6,4 +6,4 @@
 - propositional logic - rachunek zdań.
 - Factorization - Rozkład na czynniki/faktoryzacja
 - univariate - jednowymiarowe (math)
-- **Reconciliation ** -
+- **Reconciliation ** - zgoda, pojednanie
