@@ -134,4 +134,5 @@
   ![image.png](../assets/image_1715601725199_0.png)
   The Jacobian J_g is the d x d matrix with
   $[J_g(x)]ij = \frac{\delta g_i(x)}{\delta x_j}$
+- Github for lecture: https://github.com/philipphennig/ProbML_Apps
 -
