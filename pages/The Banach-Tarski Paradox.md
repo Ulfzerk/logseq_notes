@@ -3,12 +3,10 @@
 - This paradox relies on the principles of set theory and non-measurable sets. The pieces into which the sphere is decomposed are not usual geometric shapes but rather abstract mathematical sets. These sets are constructed in such a way that they have certain properties that allow them to be rearranged to form two spheres of the same size as the original.
 - It's important to note that this paradox does not violate conservation of mass or energy since it deals with abstract mathematical constructs rather than physical objects. It's a demonstration of the strange and counterintuitive nature of infinity and the mathematical structures that describe it. However, it has no practical implications for the physical world.
 -
-- There is no way to define volume in three dimensions unless one of the following five concessions is made:
+- There is no way to define volume in three dimensions unless one of the following five concessions is made: (Probably best to take option 3...)
 	- The volume of a set can change udner rotation
 	- The volume of a union of two disjoint sets can be different from the sum of their volumes
 	- Some sets have to be called non-measurable, and we will have to chekc whether a set is measurable before taking its volume
 	- The ZFC (Zermelo-Fraenkel, with axiom of choice) axioms of set theory have to be changed
 	- The volume of [0,1]^3 is either 0 or $\infty$
-	-
-	-
 	-

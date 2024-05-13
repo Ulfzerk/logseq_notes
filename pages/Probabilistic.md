@@ -89,4 +89,6 @@
 	- Two variables A and B are conditionally independent given variable C if and only if their conditional distribution factorizes
 	  P(A,B|C) = P(A|C)P(B|C)
 - #BayesianNetwork
+- #[[The Banach-Tarski Paradox]]
+-
 -
