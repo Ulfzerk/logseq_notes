@@ -114,4 +114,6 @@
 	- and, for d=1 (one dimension)
 	  $P(a<=X <b) = F(b) - F(a) = \int_a^b f(x) dx$
 - Densities Satifsy the Laws of Probability Theory
-	- For
+	- For probability densities p on $\mathcal{R},B$ we have
+	  $P(E)= 1 = \int_{R^d} p(x) dx$
+	- Let X = (X_1, X_2) \in R^2
