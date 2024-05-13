@@ -124,5 +124,6 @@
 	  $p(x_1|x_2) = \frac{p(x_1)*p(x_2|x_1)}{\int p(x_1) * p(x_2|x_1) dx_1}$
 	- Rabbit hole - Conditional Densities
 	  ![image.png](../assets/image_1715600742994_0.png)
-	- This black line that starts on y near 0 is
+	- This black line that starts on y near 0 is : "Given y is this, x is distributed that way"
+	- The background plot is sum of these distributions.
 -
