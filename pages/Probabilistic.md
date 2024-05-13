@@ -98,7 +98,7 @@
 - The lements of the topology \tau are called **open sets**. In the Euclidean vector space \mathcal{R}^d, the canonical topology is that of all sets $U$ that statisfy $x \in U :\Rightarrow \exists_\epsilon > 0 : ((||y-x|| < \varepsilon) \Rightarrow (y \in U))$
 - Random Variables allow us to define derived quantities from atomic events
 - Borel \sigma -algebras can be defined on all topological spaces, allowing us to define probabilities if the elementary space is contiunous
-- Note the connection to computability theory: measurable functions and computable functions. 'Not all sets are measurable", and "not all languages are computable'".
+- Note the connection to computability theory: **measurable** functions and **computable** functions. 'Not all sets are measurable", and "not all languages are computable'".
 -
 -
 -
