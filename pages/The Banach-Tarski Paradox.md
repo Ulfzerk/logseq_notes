@@ -8,4 +8,7 @@
 	- The volume of a union of two disjoint sets can be different from the sum of their volumes
 	- Some sets have to be called non-measurable, and we will have to chekc whether a set is measurable before taking its volume
 	- The ZFC (Zermelo-Fraenkel, with axiom of choice) axioms of set theory have to be changed
-	- The volume of [0,1]^3 is either 0 or $\inf$
+	- The volume of [0,1]^3 is either 0 or $\infty$
+	-
+	-
+	-
