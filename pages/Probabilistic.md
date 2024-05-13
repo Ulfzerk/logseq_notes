@@ -95,4 +95,6 @@
 	- \Omega \in \tau and \empty \in \tau
 	- any union of elements of \tau is in \tau
 	- any intersection of finitely many elements of \tau is in \tau
-- The lements of the topology \tau are called open sets. In the Euclidean vector space \mathcal{R}^d, the canonical topology is that of all sets $U$ that statisfy $x \in U :\Rightarrow \exists_\e
+- The lements of the topology \tau are called open sets. In the Euclidean vector space \mathcal{R}^d, the canonical topology is that of all sets $U$ that statisfy $x \in U :\Rightarrow \exists_\epsilon > 0 : ((||y-x|| < \varepsilon) \Rightarrow (y \in U))
+-
+-
