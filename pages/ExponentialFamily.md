@@ -7,4 +7,6 @@
   The function $(h(x):\mathcal{X} \rightarrow \mathcal{R}_{+}$ is the **base measure**. 
   For notational convenience, it can be useful to re-parametrize the natural parameters w as $w:=\eta(\theta)$ in terms of canonical parameters \theta
 - Conjugate Priors allow analytic inference in probablistic models
-- Ex
+- Exponentail Families guarantee the existence of conjugate priors, although not always tractable ones
+- the Hardest part is finding the normalization constant. In fact, finding the normalization constant is the only hard part.
+- Exponential famielies are a way to turn someones el
