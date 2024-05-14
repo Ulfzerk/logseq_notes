@@ -136,4 +136,6 @@
   $[J_g(x)]ij = \frac{\delta g_i(x)}{\delta x_j}$
 - Github for lecture: https://github.com/philipphennig/ProbML_Apps
 - #BetaInference
-- Definition (Conjugate Pri)
+- Definition (Conjugate Prior)
+  Let D and x be a data-set and a variable to be inferred, respectively, connected by the likelihood $p(D|x) = \mathcal{l}(D;x)$. A conjugate prior to $\mathcal{l}$ for x is a probability measure with pdf p(x)=g(x;\Theta), such that
+  $p(x|D) = \frac{\mathcal{}}$$$
