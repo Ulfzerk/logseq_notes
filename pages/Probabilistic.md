@@ -138,4 +138,5 @@
 - #BetaInference
 - Definition (Conjugate Prior)
   Let D and x be a data-set and a variable to be inferred, respectively, connected by the likelihood $p(D|x) = \mathcal{l}(D;x)$. A conjugate prior to $\mathcal{l}$ for x is a probability measure with pdf p(x)=g(x;\Theta), such that
-  $p(x|D) = \frac{\mathcal{}}$$$
+  $p(x|D) = \frac{\mathcal{l}(D;x)g(x;\Theta)}{\int \mathcal{l}(D;x)g(x;\Theta) dx}=g(x;\Theta + \empty(D)$
+-
