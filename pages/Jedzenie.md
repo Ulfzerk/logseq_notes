@@ -1,2 +1,3 @@
 # Kurczak z fasolką
-	- Kurczak
+	- Kurczak kcal 240 na 100 g
+	-
