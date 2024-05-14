@@ -11,3 +11,5 @@
 - the Hardest part is finding the normalization constant. In fact, finding the normalization constant is the only hard part.
 - Exponential famielies are a way to turn someones else's integral into an inference algorithm!
 - For a long time, exponentail famielies were the only way to do tractable Bayesian inference. In a way the essence of machine learning is to use computers to break free from exponential families.
+- # Sources
+- {{video https://www.youtube.com/watch?v=xwM9XcnQ4Us}}
