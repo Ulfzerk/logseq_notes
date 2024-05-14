@@ -3,4 +3,5 @@
   $p_w (X) = h(x) exp [\phi(X)^T W - log Z(w)] = \frac{h(X)}{Z(w)}e^{\phi(x)^T * w } = p(x|w)$
   is called an exponentail family of probability measures.
   The function $\phi : \mathcal{X} \rightarrow \mathcal{R}^d$ is called the sufficient statistics. 
-  The parameters $w \in \mathcal{R}^d$ are the natural parameters of p_w
+  The parameters $w \in \mathcal{R}^d$ are the natural parameters of p_w. The normalization constant $Z(w): \mathcal{R}^d \rightarrow R$ is partition function. 
+  The function $(h(x):\mathcal{X} \rightarrow \mathcal{R}_{+}
