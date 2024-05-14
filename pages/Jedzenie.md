@@ -5,5 +5,6 @@
 	- kukurydza 75 kcal / 100 -> 75*1.4 = 105
 	- fasolka 40 / 100 => 0,4 * 450 = 180
 	-
-	-
+	- suma = 2,5
+	- Porcje = 4 -> 625 kcal
 	-
