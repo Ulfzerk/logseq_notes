@@ -141,4 +141,5 @@
   $p(x|D) = \frac{\mathcal{l}(D;x)g(x;\Theta)}{\int \mathcal{l}(D;x)g(x;\Theta) dx}=g(x;\Theta + \phi(D)$
   That is, such that the posterior arising from $\mathcal{l}$ is of the same functional form as the prior, with updated parameters arising by adding some sufficient statistics of the observation D to the prior's parameters.
 -
+- #ExponentialFamily
 -
