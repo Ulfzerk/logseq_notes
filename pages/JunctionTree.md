@@ -2,4 +2,7 @@
 - In essence, it entails peforming belief propagation on a modified graph called a junction tree
 - Nodes of variable are the branches
 - goal is to eliminate cycles by clustering them into single nodes
--
+- ### Properties
+	- Singly connected: there is exactly one path between each pair of clusters
+	- covering: for each clique A of G there is some cluster C such that A
+	-
