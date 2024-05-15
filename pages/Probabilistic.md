@@ -142,4 +142,5 @@
   That is, such that the posterior arising from $\mathcal{l}$ is of the same functional form as the prior, with updated parameters arising by adding some sufficient statistics of the observation D to the prior's parameters.
 -
 - #ExponentialFamily
+- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 -
