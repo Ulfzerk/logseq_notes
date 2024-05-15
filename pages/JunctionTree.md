@@ -8,4 +8,5 @@
 	- Running intersection: for each pair of clusters B and C that contain i, each cluster on the unique path between B and C also contains i.
 	-
 - https://ai.stanford.edu/~paskin/gm-short-course/lec3.pdf
+- ![image.png](../assets/image_1715753330418_0.png)
 -
