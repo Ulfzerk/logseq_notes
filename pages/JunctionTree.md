@@ -1,3 +1,5 @@
 - It is also known as clique Tree
 - In essence, it entails peforming belief propagation on a modified graph called a junction tree
+- Nodes of variable are the branches
+- goal is to eliminate cycles by clustering them into single nodes
 -
