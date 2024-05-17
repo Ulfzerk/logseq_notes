@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "belief propagation(\\theta)"
+{:block/content "belief propagation(\\theta)\n\n$\\log \\sum (exp(cliques))$"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66473049-42ea-43f0-be52-cad91da43dd2"} 
-{:block/created-at 1715941564427
+{:block/created-at 1715941686843
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,7 +25,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [816 40.87949752807617]
+:size [816 89.9463119506836]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -34,9 +34,9 @@
 :point [312 208]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941448028}}
-:block/updated-at 1715941564427} 
-{:block/created-at 1715941571845
+:nonce 1715941448030}}
+:block/updated-at 1715941686843} 
+{:block/created-at 1715941713132
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -53,7 +53,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [816 40.87949752807617]
+:size [816 89.9463119506836]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -63,8 +63,8 @@
 :point [1000 -168]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941448122}}
-:block/updated-at 1715941571845})
+:nonce 1715941448135}}
+:block/updated-at 1715941713132})
 :pages (
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
 :block/properties 
@@ -77,7 +77,7 @@
 :nonce 1
 :assets []
 :shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "e06fe100-1437-11ef-9b96-91f2e9e16894")}}
-:block/updated-at 1715941576422
+:block/updated-at 1715941713132
 :block/created-at 1715941429592
 :block/type "whiteboard"
 :block/name "privlava"
