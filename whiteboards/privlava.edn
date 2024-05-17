@@ -43,7 +43,7 @@
 :block/parent 
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
 :block/uuid #uuid "664731d6-efca-4aae-b0d4-c2d5bef3e5cf"} 
-{:block/created-at 1715941848329
+{:block/created-at 1715941899578
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -67,12 +67,12 @@
 :id "85939320-1438-11ef-9b96-91f2e9e16894"
 :noFill false
 :isLocked false
-:point [1112 -264]
+:point [368 -336]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941846366}}
-:block/updated-at 1715941848329} 
-{:block/created-at 1715941881191
+:nonce 1715941846400}}
+:block/updated-at 1715941899578} 
+{:block/created-at 1715941899578
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -89,25 +89,62 @@
 :id "8b73f052-1438-11ef-9b96-91f2e9e16894"
 :fontWeight 400
 :noFill true
-:point [892.28 -53.03]
+:point [636.38 -125.03]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [236.66 0]
+:point [0 0]
 :bindingId "8b73f050-1438-11ef-9b96-91f2e9e16894"}
 :end 
 {:id "end"
 :canBind true
-:point [0 137.03]
+:point [134.86 209.03]
 :bindingId "8b73f051-1438-11ef-9b96-91f2e9e16894"}}
 :decorations 
 {:end "arrow"}
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
-:nonce 1715941856271
+:nonce 1715941856285
 :italic false}}
-:block/updated-at 1715941881191})
+:block/updated-at 1715941899578} 
+{:block/content "marginal_loss(\\mu)\nresults with loss and gradient (gradient per marginal)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "664731d6-efca-4aae-b0d4-c2d5bef3e5cf"}
+:block/parent 
+{:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
+:block/properties 
+{}
+:block/uuid #uuid "66473212-3939-40e1-8b1f-446a67121432"} 
+{:block/created-at 1715941952625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66473212-3939-40e1-8b1f-446a67121432"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [552 64.8994140625]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a904c180-1438-11ef-9b96-91f2e9e16894"
+:noFill false
+:point [864 -336]
+:parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
+:collapsedHeight 0
+:nonce 1715941905891}}
+:block/updated-at 1715941952625})
 :pages (
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
 :block/properties 
@@ -134,8 +171,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "85939320-1438-11ef-9b96-91f2e9e16894" "8b73f052-1438-11ef-9b96-91f2e9e16894")}}
-:block/updated-at 1715941895230
+:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "85939320-1438-11ef-9b96-91f2e9e16894" "8b73f052-1438-11ef-9b96-91f2e9e16894" "a904c180-1438-11ef-9b96-91f2e9e16894")}}
+:block/updated-at 1715941952625
 :block/created-at 1715941429592
 :block/type "whiteboard"
 :block/name "privlava"
