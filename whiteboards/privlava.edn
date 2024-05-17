@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "\\mu <-"
+{:block/content "belief propagation(\\theta)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66473049-42ea-43f0-be52-cad91da43dd2"} 
-{:block/created-at 1715941488730
+{:block/created-at 1715941564427
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -31,11 +31,40 @@
 :opacity 1
 :id "98111d70-1437-11ef-9b96-91f2e9e16894"
 :noFill false
-:point [528 88]
+:point [312 208]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941447970}}
-:block/updated-at 1715941488730})
+:nonce 1715941448028}}
+:block/updated-at 1715941564427} 
+{:block/created-at 1715941571845
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66473049-42ea-43f0-be52-cad91da43dd2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [816 40.87949752807617]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e06fe100-1437-11ef-9b96-91f2e9e16894"
+:noFill false
+:isLocked false
+:point [1000 -168]
+:parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
+:collapsedHeight 0
+:nonce 1715941448122}}
+:block/updated-at 1715941571845})
 :pages (
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
 :block/properties 
@@ -47,8 +76,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894")}}
-:block/updated-at 1715941499012
+:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "e06fe100-1437-11ef-9b96-91f2e9e16894")}}
+:block/updated-at 1715941576422
 :block/created-at 1715941429592
 :block/type "whiteboard"
 :block/name "privlava"
