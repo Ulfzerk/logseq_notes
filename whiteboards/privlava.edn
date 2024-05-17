@@ -108,7 +108,7 @@
 :nonce 1715941856285
 :italic false}}
 :block/updated-at 1715941899578} 
-{:block/content "marginal_loss(\\mu)\nresults with loss and gradient (gradient per marginal)\nmetric : L2 ?\nfor each clique in \\mu\n>>> belief = clique value from \\mu\n>>> make a zero vector for this clique as gradient\n>>> loop over groups"
+{:block/content "marginal_loss(\\mu)\nresults with loss and gradient (gradient per marginal)\nmetric : L2 ?\nfor each clique in \\mu\n>>> belief = clique value from \\mu\n>>> make a zero vector for this clique as gradient\n>>> loop over groups (orginal marginals?)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "664731d6-efca-4aae-b0d4-c2d5bef3e5cf"}
@@ -117,7 +117,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66473212-3939-40e1-8b1f-446a67121432"} 
-{:block/created-at 1715942053330
+{:block/created-at 1715942086216
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -143,8 +143,8 @@
 :point [864 -336]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941905902}}
-:block/updated-at 1715942053330})
+:nonce 1715941905904}}
+:block/updated-at 1715942086216})
 :pages (
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
 :block/properties 
@@ -172,7 +172,7 @@
 :nonce 1
 :assets []
 :shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "85939320-1438-11ef-9b96-91f2e9e16894" "8b73f052-1438-11ef-9b96-91f2e9e16894" "a904c180-1438-11ef-9b96-91f2e9e16894")}}
-:block/updated-at 1715942062624
+:block/updated-at 1715942094388
 :block/created-at 1715941429592
 :block/type "whiteboard"
 :block/name "privlava"
