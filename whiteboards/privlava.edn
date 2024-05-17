@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "\\mu <- belief propagation(\\theta)\nloss <- marginal_loss(\\mu)\n\nLOOP\n>>> save last \\mu and \\theta as \\omega and \\nu\n>>> save last loss and DL (gradients)\n>>> LOOP\n>>> >>> get new theta by update \\omega - learningrate*gradient"
+{:block/content "\\mu <- belief propagation(\\theta)\nloss <- marginal_loss(\\mu)\n\nLOOP\n>>> save last \\mu and \\theta as \\omega and \\nu\n>>> save last loss and DL (gradients)\n>>> LOOP\n>>> >>> get new theta by update \\omega - learningrate*DL\n>>> >>> get new mu based on new theta though belief_propagation(new \\theta)\n>>>>>> calculate gradients\n>>>>>> Check if it converges\n>>>>>> lower the learning rate"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66473049-42ea-43f0-be52-cad91da43dd2"} 
-{:block/created-at 1715942476000
+{:block/created-at 1715942552731
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,7 +25,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [816 208.8762969970703]
+:size [816 304.8846435546875]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -34,8 +34,8 @@
 :point [528 88]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941448057}}
-:block/updated-at 1715942476000} 
+:nonce 1715941448061}}
+:block/updated-at 1715942552731} 
 {:block/content "belief propagation(\\theta)\r\nloop over message_order\r\n$\\log (\\sum exp(cliques))$\r\nfor each clique update belief\r\nreturn belief as Factors per clique"
 :block/format :markdown
 :block/left 
@@ -72,7 +72,7 @@
 :collapsedHeight 0
 :nonce 1715941846400}}
 :block/updated-at 1715941899578} 
-{:block/created-at 1715942476006
+{:block/created-at 1715942552736
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -89,7 +89,7 @@
 :id "8b73f052-1438-11ef-9b96-91f2e9e16894"
 :fontWeight 400
 :noFill true
-:point [621.62 -125.03]
+:point [614.87 -125.03]
 :fontSize 20
 :handles 
 {:start 
@@ -100,14 +100,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [105.74 209.03]
+:point [92.44 209.03]
 :bindingId "8b73f051-1438-11ef-9b96-91f2e9e16894"}}
 :decorations 
 {:end "arrow"}
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
-:nonce 1715941856297
+:nonce 1715941856301
 :italic false}}
-:block/updated-at 1715942476006} 
+:block/updated-at 1715942552736} 
 {:block/content "marginal_loss(\\mu)\nresults with loss and gradient (gradient per marginal)\nmetric : L2 ?\nfor each clique in \\mu\n>>> belief = clique value from \\mu\n>>> make a zero vector for this clique as gradient\n>>> loop over groups (orginal marginals?)\n>>> x = values from mu\n>>> y = orginal values\n>>> @ is matrix multiplixation operator in numpy/torch\n>>> Q = measurment matrix ??\n>>> diff = Q @ x - y \n>>> loss += 0.5(diff@diff)\n>>> grad = Q.T * DIFF\n>>> update gradient for clqiue with grad."
 :block/format :markdown
 :block/left 
@@ -145,7 +145,7 @@
 :collapsedHeight 0
 :nonce 1715941906060}}
 :block/updated-at 1715942380517} 
-{:block/created-at 1715942476006
+{:block/created-at 1715942552736
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -162,13 +162,13 @@
 :id "c286a4b2-1439-11ef-9b96-91f2e9e16894"
 :fontWeight 400
 :noFill true
-:point [1152.2 -80]
+:point [1214.95 -80]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [389.31 0]}
+:point [326.56 0]}
 :end 
 {:id "end"
 :canBind true
@@ -177,9 +177,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
-:nonce 1715942378197
+:nonce 1715942378201
 :italic false}}
-:block/updated-at 1715942476006})
+:block/updated-at 1715942552736})
 :pages (
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
 :block/properties 
@@ -215,7 +215,7 @@
 :nonce 1
 :assets []
 :shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "85939320-1438-11ef-9b96-91f2e9e16894" "8b73f052-1438-11ef-9b96-91f2e9e16894" "a904c180-1438-11ef-9b96-91f2e9e16894" "c286a4b2-1439-11ef-9b96-91f2e9e16894")}}
-:block/updated-at 1715942501619
+:block/updated-at 1715942560203
 :block/created-at 1715941429592
 :block/type "whiteboard"
 :block/name "privlava"
