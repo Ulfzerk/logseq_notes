@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "\\mu <- belief propagation(\\theta)\nloss <- marginal_loss(\\mu)"
+{:block/content "\\mu <- belief propagation(\\theta)\nloss <- marginal_loss(\\mu)\n\nLOOP\n>>> save last \\mu and \\theta as \\omega and \\nu\n>>> save last loss and DL (gradients)\n>>> LOOP\n>>> >>> get new theta by update \\omega - learningrate*gradient"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66473049-42ea-43f0-be52-cad91da43dd2"} 
-{:block/created-at 1715941881187
+{:block/created-at 1715942476000
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,7 +25,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [816 64.88514709472656]
+:size [816 208.8762969970703]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -34,8 +34,8 @@
 :point [528 88]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941448045}}
-:block/updated-at 1715941881187} 
+:nonce 1715941448057}}
+:block/updated-at 1715942476000} 
 {:block/content "belief propagation(\\theta)\r\nloop over message_order\r\n$\\log (\\sum exp(cliques))$\r\nfor each clique update belief\r\nreturn belief as Factors per clique"
 :block/format :markdown
 :block/left 
@@ -72,7 +72,7 @@
 :collapsedHeight 0
 :nonce 1715941846400}}
 :block/updated-at 1715941899578} 
-{:block/created-at 1715941899578
+{:block/created-at 1715942476006
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -89,7 +89,7 @@
 :id "8b73f052-1438-11ef-9b96-91f2e9e16894"
 :fontWeight 400
 :noFill true
-:point [636.38 -125.03]
+:point [621.62 -125.03]
 :fontSize 20
 :handles 
 {:start 
@@ -100,14 +100,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [134.86 209.03]
+:point [105.74 209.03]
 :bindingId "8b73f051-1438-11ef-9b96-91f2e9e16894"}}
 :decorations 
 {:end "arrow"}
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
-:nonce 1715941856285
+:nonce 1715941856297
 :italic false}}
-:block/updated-at 1715941899578} 
+:block/updated-at 1715942476006} 
 {:block/content "marginal_loss(\\mu)\nresults with loss and gradient (gradient per marginal)\nmetric : L2 ?\nfor each clique in \\mu\n>>> belief = clique value from \\mu\n>>> make a zero vector for this clique as gradient\n>>> loop over groups (orginal marginals?)\n>>> x = values from mu\n>>> y = orginal values\n>>> @ is matrix multiplixation operator in numpy/torch\n>>> Q = measurment matrix ??\n>>> diff = Q @ x - y \n>>> loss += 0.5(diff@diff)\n>>> grad = Q.T * DIFF\n>>> update gradient for clqiue with grad."
 :block/format :markdown
 :block/left 
@@ -117,7 +117,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66473212-3939-40e1-8b1f-446a67121432"} 
-{:block/created-at 1715942369517
+{:block/created-at 1715942380517
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -140,11 +140,46 @@
 :opacity 1
 :id "a904c180-1438-11ef-9b96-91f2e9e16894"
 :noFill false
-:point [864 -648]
+:point [1152 -528]
 :parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
 :collapsedHeight 0
-:nonce 1715941906024}}
-:block/updated-at 1715942369517})
+:nonce 1715941906060}}
+:block/updated-at 1715942380517} 
+{:block/created-at 1715942476006
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c286a4b2-1439-11ef-9b96-91f2e9e16894"
+:fontWeight 400
+:noFill true
+:point [1152.2 -80]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [389.31 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 164]
+:bindingId "c286a4b1-1439-11ef-9b96-91f2e9e16894"}}
+:decorations 
+{:end "arrow"}
+:parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
+:nonce 1715942378197
+:italic false}}
+:block/updated-at 1715942476006})
 :pages (
 {:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
 :block/properties 
@@ -168,11 +203,19 @@
 :toId "98111d70-1437-11ef-9b96-91f2e9e16894"
 :handleId "end"
 :point [0.34 0.7]
+:distance 4}
+:c286a4b1-1439-11ef-9b96-91f2e9e16894 
+{:id "c286a4b1-1439-11ef-9b96-91f2e9e16894"
+:type "line"
+:fromId "c286a4b2-1439-11ef-9b96-91f2e9e16894"
+:toId "98111d70-1437-11ef-9b96-91f2e9e16894"
+:handleId "end"
+:point [0.4 0.58]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "85939320-1438-11ef-9b96-91f2e9e16894" "8b73f052-1438-11ef-9b96-91f2e9e16894" "a904c180-1438-11ef-9b96-91f2e9e16894")}}
-:block/updated-at 1715942369517
+:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894" "85939320-1438-11ef-9b96-91f2e9e16894" "8b73f052-1438-11ef-9b96-91f2e9e16894" "a904c180-1438-11ef-9b96-91f2e9e16894" "c286a4b2-1439-11ef-9b96-91f2e9e16894")}}
+:block/updated-at 1715942501619
 :block/created-at 1715941429592
 :block/type "whiteboard"
 :block/name "privlava"
