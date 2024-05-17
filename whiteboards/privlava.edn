@@ -1,0 +1,55 @@
+{:blocks (
+{:block/content "```python\n\\\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
+:block/parent 
+{:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"}
+:block/properties 
+{}
+:block/uuid #uuid "66473049-42ea-43f0-be52-cad91da43dd2"} 
+{:block/created-at 1715941472853
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66473049-42ea-43f0-be52-cad91da43dd2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [816 88.87654113769531]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "98111d70-1437-11ef-9b96-91f2e9e16894"
+:noFill false
+:point [528 88]
+:parentId "66473035-d1fc-47fb-ab53-eba929a81be8"
+:collapsedHeight 0
+:nonce 1715941447966}}
+:block/updated-at 1715941472853})
+:pages (
+{:block/uuid #uuid "66473035-d1fc-47fb-ab53-eba929a81be8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66473035-d1fc-47fb-ab53-eba929a81be8"
+:name "privlava"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("98111d70-1437-11ef-9b96-91f2e9e16894")}}
+:block/updated-at 1715941481248
+:block/created-at 1715941429592
+:block/type "whiteboard"
+:block/name "privlava"
+:block/original-name "privlava"})}
