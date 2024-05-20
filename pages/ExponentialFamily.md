@@ -13,7 +13,9 @@
 - For a long time, exponentail famielies were the only way to do tractable Bayesian inference. In a way the essence of machine learning is to use computers to break free from exponential families.
 - ![image.png](../assets/image_1716204859327_0.png)
 - ![image.png](../assets/image_1716204891554_0.png)
-- $P_w(x)$ - Probability distributions over some data $x$ -> these are likelihoods paratremized by $w$
+- $P_w(x)$ - Probability distributions over some data $x$ -> these are likelihoods parametrized by $w$ probably same as $P(x|w)$
+- $h(x)$ - Base measure - function that doesn't depend of model parameter
+- $exp[\phi - log Z(w)]$ -
 -
 - # Sources
 - {{video https://www.youtube.com/watch?v=GM7coty_Xqg&t=857s}}
