@@ -1,5 +1,6 @@
 - Statistic is **sufficient** with respoect to a statistical models and its associated unknow parameter if
-	- "no other statistic
+	- "no other statistic that can be calculated from the same sample provides any additional information as to the value of the parameter"
+	- In fact we can
 - #### Resource:
 	- http://prac.im.pwr.wroc.pl/~wilczyn/wstep%20do%20statystyki/wyklad%207.pdf
 	-
