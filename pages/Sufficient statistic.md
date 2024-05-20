@@ -7,7 +7,7 @@
 	- It is inpractical to use it from definition because it would be a guessing of function $T(X)$
 - ### Neyman-Fisher Theorem (Factorization Criterion)
 	- It is a practical tool for identification of sufficient statistics
-	-
+	- if the probability density function is $f_{\theta} (X)
 	-
 - #### Resource:
 	- http://prac.im.pwr.wroc.pl/~wilczyn/wstep%20do%20statystyki/wyklad%207.pdf
