@@ -7,7 +7,10 @@
 	- It is inpractical to use it from definition because it would be a guessing of function $T(X)$
 - ### Neyman-Fisher Theorem (Factorization Criterion)
 	- It is a practical tool for identification of sufficient statistics
-	- if the probability density function is $f_{\theta} (X)
+	- if the probability density function is $f_{\theta} (x) = h(x)g_\theta (T(X))
+	- the density f can be factored into a product such that one factor, h, does not depend on \theta and the other factor, which does depend on \theta, depends on x only through T(x).
+	- General proof -  Halmos and Savage
+	-
 	-
 - #### Resource:
 	- http://prac.im.pwr.wroc.pl/~wilczyn/wstep%20do%20statystyki/wyklad%207.pdf
