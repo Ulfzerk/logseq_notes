@@ -21,6 +21,7 @@
 	- Z(w) - normalization constant - partition function
 	-
 - # What it can do?
+	- Every Exponential Families have Conjugate Priors
 	-
 - # Sources
 - {{video https://www.youtube.com/watch?v=GM7coty_Xqg&t=857s}}
