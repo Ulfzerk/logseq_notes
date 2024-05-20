@@ -16,6 +16,9 @@
 - $P_w(x)$ - Probability distributions over some data $x$ -> these are likelihoods parametrized by $w$ probably same as $P(x|w)$
 - $h(x)$ - Base measure - function that doesn't depend of model parameter
 - $exp[\phi(x)^T w - log Z(w)]$ -
+	- \phi(x) - function that depends only on data
+	- w - params
+	- Z(w) - normalization constant - partition function
 	-
 -
 - # Sources
