@@ -4,6 +4,7 @@
 	- Then we call call $T(X)$ a sufficient statistic in respect to \theta (parameter of model)
 	- For example for a \mu in normal distribution we can use mean of data (which is a function of data sample)
 	- It can lead to data reduction which is nice ;)
+	- It is inpractical to use it from definition because it would be a guessing of funtion T(X)
 - ### Neyman-Fisher Theorem
 	- It is a practical tool for identification of sufficient statistics
 	-
