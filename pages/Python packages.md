@@ -6,5 +6,9 @@
 		- XLA
 - # Cool features
 	- Annotations
-		- from __future__ import annotations
-		-
+		- ```py
+		  from __future__ import annotations
+		  ```
+		- Type hints
+- # Base
+	- functools ()
