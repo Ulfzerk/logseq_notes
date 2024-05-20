@@ -15,7 +15,7 @@
 - ![image.png](../assets/image_1716204891554_0.png)
 - $P_w(x)$ - Probability distributions over some data $x$ -> these are likelihoods parametrized by $w$ probably same as $P(x|w)$
 - $h(x)$ - Base measure - function that doesn't depend of model parameter
-- $exp[\phi - log Z(w)]$ -
+- $exp[\phi(x)^T w - log Z(w)]$ -
 -
 - # Sources
 - {{video https://www.youtube.com/watch?v=GM7coty_Xqg&t=857s}}
