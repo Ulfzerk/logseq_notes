@@ -28,7 +28,7 @@
 	  
 	  This posterior distribution is a Beta distribution with updated parameters:
 	  
-	  𝜃∣𝐷∼Beta(𝐷+𝛼,𝑛−𝐷+𝛽)*θ*∣*D*∼Beta(*D*+*α*,*n*−*D*+*β*)
+	  $𝜃∣𝐷∼Beta(𝐷+𝛼,𝑛−𝐷+𝛽)*θ*∣*D*∼Beta(*D*+*α*,*n*−*D*+*β*)$
 	- ### Advantages of Using Conjugate Priors
 	- **Analytical Simplicity**: The mathematical form of the posterior is straightforward and within the same family as the prior, making it easier to compute and understand.
 	- **Computational Efficiency**: The use of conjugate priors reduces the computational complexity, as there is no need for numerical integration to obtain the posterior distribution.
