@@ -23,7 +23,9 @@
 - # What it can do?
 	- Every Exponential Families have Conjugate Priors
 	- It allows us to automate baysian inference
--
+- # What do we do if we don't know the log partion function?
+	- it is a problem of baysian inference
+	-
 - # Sources
 - {{video https://www.youtube.com/watch?v=GM7coty_Xqg&t=857s}}
 - {{video https://www.youtube.com/watch?v=xwM9XcnQ4Us}}
