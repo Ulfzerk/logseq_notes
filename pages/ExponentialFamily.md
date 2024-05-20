@@ -26,6 +26,8 @@
 - # What do we do if we don't know the log partion function?
 	- it is a problem of baysian inference
 	- fin the **maximum likelihood** estiamte for w, by a gradient of log(px|w)
+	  ![image.png](../assets/image_1716214646393_0.png)
+	-
 	-
 - # Sources
 - {{video https://www.youtube.com/watch?v=GM7coty_Xqg&t=857s}}
