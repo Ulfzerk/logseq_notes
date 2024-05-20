@@ -1,7 +1,11 @@
 - Statistic is **sufficient** with respoect to a statistical models and its associated unknow parameter if
 	- "no other statistic that can be calculated from the same sample provides any additional information as to the value of the parameter"
 	- In fact there is a function $T(X)$ where X is a sample of data, which allows to compute any estimate of the parameter (e.g. a maximum likelihood estimate).
-	- Then we call call $T(X)$ a
+	- Then we call call $T(X)$ a sufficient statistic in respect to \theta (parameter of model)
+	- For example for a \mu in normal distribution we can use mean of data (which is a function of data sample)
+- ### Neyman-Fisher Theorem
+	- It is a practical tool for identification of sufficient statistics
+	-
 - #### Resource:
 	- http://prac.im.pwr.wroc.pl/~wilczyn/wstep%20do%20statystyki/wyklad%207.pdf
 	-
