@@ -3,6 +3,7 @@
 	- In fact there is a function $T(X)$ where X is a sample of data, which allows to compute any estimate of the parameter (e.g. a maximum likelihood estimate).
 	- Then we call call $T(X)$ a sufficient statistic in respect to \theta (parameter of model)
 	- For example for a \mu in normal distribution we can use mean of data (which is a function of data sample)
+	- It can lead to data reduction which is nice ;)
 - ### Neyman-Fisher Theorem
 	- It is a practical tool for identification of sufficient statistics
 	-
