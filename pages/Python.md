@@ -14,4 +14,4 @@
 	- functools (combinations, permutations etc)
 	- abc (abstract base class)
 		- inheritence etc.
-	-
+- Function params -> function(x , / ) - it means that this function is not supposed to receive keywards arguments.
