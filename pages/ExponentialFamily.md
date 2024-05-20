@@ -20,7 +20,8 @@
 	- w - params
 	- Z(w) - normalization constant - partition function
 	-
--
+- # What it can do?
+	-
 - # Sources
 - {{video https://www.youtube.com/watch?v=GM7coty_Xqg&t=857s}}
 - {{video https://www.youtube.com/watch?v=xwM9XcnQ4Us}}
