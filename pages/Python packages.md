@@ -4,3 +4,7 @@
 	- Jax - accelerator-oriented array computation and program transformation designed for high-performance numerical computing and large-scale machine learning
 		- Autograd
 		- XLA
+- # Cool features
+	- Annotations
+		- from __future__ import annotations
+		-
