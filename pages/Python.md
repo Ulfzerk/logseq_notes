@@ -1,5 +1,6 @@
 # Math related
 	- array_to_latex - allows to cast numpy arrays into tex strings.
+	- Gamma function is a efficient implementation of factorial k! etc.
 - # Matrixes
 	- Jax - accelerator-oriented array computation and program transformation designed for high-performance numerical computing and large-scale machine learning
 		- Autograd
