@@ -11,4 +11,7 @@
 		  ```
 		- Type hints
 - # Base
-	- functools ()
+	- functools (combinations, permutations etc)
+	- abc (abstract base class)
+		- inheritence etc.
+	-
