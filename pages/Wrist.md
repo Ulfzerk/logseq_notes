@@ -1,0 +1,2 @@
+- Wrist training to streghten it
+- {{video https://www.youtube.com/watch?v=5o38j28wx70}}
