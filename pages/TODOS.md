@@ -8,5 +8,6 @@
 	- -[] - **ważny dowód osobisty**
 	- kolorową fotografię o wymiarach 35 x 45 mm, wykonaną w ciągu ostatnich 6 miesięcy na jednolitym jasnym tle, odwzorowującą naturalny kolor skóry, mającą dobrą ostrość oraz pokazujące wyraźnie oczy zwłaszcza źrenice, a także twarz od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70-80 % fotografii;
 	- potwierdzenie dokonania opłaty paszportowej: 140 zł
+	- [https://www.gov.pl/web/gov/sprawdz-czy-paszport-jest-gotowy](https://www.gov.pl/web/gov/sprawdz-czy-paszport-jest-gotowy)
 	-
 	-
