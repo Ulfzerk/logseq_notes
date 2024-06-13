@@ -3,6 +3,10 @@
 	- kolorowe zdjęcie w formie elektronicznej o rozdzielczości minimalnej 492 x 633 piksele i wielkości maksymalnej do 2,5 MB tak, aby fotografia zachowywała proporcje odpowiadające fotografii o wymiarach 35 x 45 mm (szerokość x wysokość) – jeśli jesteś na zdjęciu w ciemnychokularach lub w nakryciu głowy – załącznik z odpowiednim zaświadczeniem
 	- Złożyć na
 - Paszport
+	- https://duw.pl/pl/obsluga-klienta/paszporty/jak-zlozyc-wniosek-o-wy/8345,Zlozenie-wniosku-o-wydanie-dokumentu-paszportowego-dla-osoby-doroslej.html
 	- https://rezerwacje.duw.pl/
 	- -[] - **ważny dowód osobisty**
+	- kolorową fotografię o wymiarach 35 x 45 mm, wykonaną w ciągu ostatnich 6 miesięcy na jednolitym jasnym tle, odwzorowującą naturalny kolor skóry, mającą dobrą ostrość oraz pokazujące wyraźnie oczy zwłaszcza źrenice, a także twarz od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70-80 % fotografii;
+	- potwierdzenie dokonania opłaty paszportowej: 140 zł
+	-
 	-
