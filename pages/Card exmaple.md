@@ -5,4 +5,5 @@
   card-last-interval:: 4
   card-ease-factor:: 2.6
   card-last-reviewed:: 2024-07-03T08:57:43.949Z
-title:: Card exmaple
+	- Anwser
+-
