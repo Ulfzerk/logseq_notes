@@ -1,0 +1,2 @@
+- An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data (unsupervised learning)
+	- It learns an encoding function that transforms the input data and
