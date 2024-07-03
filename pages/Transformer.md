@@ -1,4 +1,4 @@
 - **How to use**
-	- [HuggingFace Transformers Library](https://huggingface.co/)
+	- [[HuggingFace]]
 	-
 -
