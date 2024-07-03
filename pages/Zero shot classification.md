@@ -1,0 +1,2 @@
+- What is Zero-Shot Classification? #card
+	-

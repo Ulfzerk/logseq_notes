@@ -26,5 +26,5 @@ icon:: 🤗
 	- (summarization)[[Text summarization]]
 	- (text-generation)[[Text-generation]]
 	- (translation)[[Translation]]
-	- (zero-shot-classification)[[zero shot classification]]
+	- (zero-shot-classification)[[Zero shot classification]]
 	-
