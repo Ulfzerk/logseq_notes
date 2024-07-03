@@ -16,5 +16,10 @@
 	- **Generating a new sentence from an input text**
 		- Translating a text into another language
 		- Text summarization
-	- Extra Note
-		- NLP isn't limited to written text though. It aslo tackles complex challenges in speech reco
+	- Other tasks
+		- NLP isn't limited to written text though. It also tackles complex challenges in speech recognition and computer vision, such as generating a transcript of an audio sample or a description of an image.
+- Why NLP is challenging? #card
+	- Computers don't process information in the same way as humans
+	- Text needs to be processed in a way that enables the model to learn from it
+	- Language is complex
+-
