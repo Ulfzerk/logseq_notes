@@ -24,3 +24,5 @@
 		- Data generation
 - **Cards**
 	- What is main goal of autoencoder? #card
+		- Encoder - learning latent representation of the data
+		  Decoder - learning how to recreate data from latent representation
