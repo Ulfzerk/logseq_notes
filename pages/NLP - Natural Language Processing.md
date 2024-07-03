@@ -1,0 +1,2 @@
+- What is NLP? #card
+	- NLP is a field of linguistics and machine learning focused on understanding everything related to hu
