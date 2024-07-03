@@ -24,5 +24,11 @@
 		- Data generation
 - **Cards**
 	- What is main goal of autoencoder? #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2024-07-07T09:39:01.300Z
+	  card-last-reviewed:: 2024-07-03T09:39:01.300Z
+	  card-last-score:: 3
 		- Encoder - learning latent representation of the data
 		  Decoder - learning how to recreate data from latent representation
