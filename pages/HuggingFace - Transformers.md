@@ -13,4 +13,8 @@ icon:: 🤗
 	  
 	  #output: [{'label': 'POSITIVE', 'score': 0.9598047137260437}]
 	  ```
--
+- Pipeline steps
+	- Text is preprocessed into a format the model can understand
+	- Preprocessed input are passed to the model
+	- predictions of the model are post-processed so you can make sense of them
+- **Avai**
