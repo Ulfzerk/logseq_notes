@@ -8,4 +8,5 @@
 	-
 - **Useful for:**
 	- When we have small amount of labeled data
-- What is a diffrence between Zero shot classification and
+- What is a diffrence between Zero shot classification and single/one few-shot classification #card
+	- In single/one/few shot classification, these tasks include a single or a few examples of the selected task.
