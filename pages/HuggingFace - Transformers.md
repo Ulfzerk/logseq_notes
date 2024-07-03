@@ -24,4 +24,7 @@ icon:: 🤗
 	- (question-answering)[[Question answering]]
 	- (sentiment-analysis)[[Sentiment analysis]]
 	- (summarization)[[Text summarization]]
+	- (text-generation)[[Text-generation]]
+	- (translation)[[Translation]]
+	- (zero-shot-classification)[[zero shot classification]]
 	-
