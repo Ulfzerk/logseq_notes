@@ -13,4 +13,8 @@
 		- Completing a prompt with auto-generated text, filling in the blanks in a text with masked words
 	- **Extracting an answer from a text**
 		- Given a question and a context, extracting the answer to the question based on the information provided in the context
-	-
+	- **Generating a new sentence from an input text**
+		- Translating a text into another language
+		- Text summarization
+	- Extra Note
+		- NLP isn't limited to written text though. It aslo tackles complex challenges in speech reco
