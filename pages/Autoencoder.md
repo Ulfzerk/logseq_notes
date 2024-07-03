@@ -4,6 +4,7 @@
 		- Sparse
 		- Denoising
 		- Contractive
+	- Autoencoders are generative models which can randomly generate new data that is similar to the input data (training data)
 - ### Use cases
 	- [[Transformer]]
 	- [[Dimensionality reduction]]
@@ -12,4 +13,5 @@
 		- [[Facial recognition]],
 		- [[Feature detection]]
 		- [[Anomaly detection]]
-		-
+		- Acquiring the meaning of words (word embeddings?)
+		- Data generation
