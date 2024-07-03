@@ -1,6 +1,18 @@
 - What is NLP? #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-07-07T10:10:23.915Z
+  card-last-reviewed:: 2024-07-03T10:10:23.916Z
+  card-last-score:: 3
 	- NLP is a field of linguistics and machine learning focused on understanding everything related to human language. The aim of NLP tasks is not only to understand single words individually, but to be able to understand the context of those words.
 - NLP Tasks #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-07-07T10:10:26.587Z
+  card-last-reviewed:: 2024-07-03T10:10:26.587Z
+  card-last-score:: 3
 	- **Classifying whole sentences**
 		- Getting the sentiment of a review
 		- Detecting if an email is spam,
@@ -19,6 +31,12 @@
 	- Other tasks
 		- NLP isn't limited to written text though. It also tackles complex challenges in speech recognition and computer vision, such as generating a transcript of an audio sample or a description of an image.
 - Why NLP is challenging? #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-07-07T10:10:29.210Z
+  card-last-reviewed:: 2024-07-03T10:10:29.210Z
+  card-last-score:: 3
 	- Computers don't process information in the same way as humans
 	- Text needs to be processed in a way that enables the model to learn from it
 	- Language is complex
