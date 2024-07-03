@@ -5,4 +5,8 @@
 		- Getting the sentiment of a review
 		- Detecting if an email is spam,
 		- determining if sentence is grammatically correct or whether two sentences are logically related or not
-	- **Classifying each word in a sentence
+	- **Classifying each word in a sentence**
+		- Identifying the grammatical components of a sentence (noun, verb, adjective)
+		- [[Named Entities Recognition]]
+		- Generating text content
+			- Completing a prompt with
