@@ -1,4 +1,4 @@
-- icon::🔥
+- icon::!🔥
 -
 - **pipeline**
 	- Basic object int the Transformers library is the pipeline() function.
