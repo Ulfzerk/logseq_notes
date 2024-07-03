@@ -17,4 +17,7 @@ icon:: 🤗
 	- Text is preprocessed into a format the model can understand
 	- Preprocessed input are passed to the model
 	- predictions of the model are post-processed so you can make sense of them
-- **Avai**
+- **Available pipelines**:
+	- feature-extraction ([[word embeddings]])
+	- ()[[fill-mask]]
+	- (ner)[[Named entity recognition]]
