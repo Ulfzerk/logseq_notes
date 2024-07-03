@@ -3,4 +3,7 @@
 - About the Zero shot classification task
 	- Zero shot classification is the task of predicting a class that wasn't seen by the model during training.
 	- Uses pre-trained language model
-	- Can be thought of as an instance of transfer learning which generally ref
+	- Can be thought of as an instance of transfer learning which generally refers to using a model trained for one task in a different application than what it was originally trained for. 
+	  This is particularly useful for situations where the amount of labeled data is small
+- **Useful for:**
+	-
