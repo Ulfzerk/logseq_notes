@@ -22,3 +22,5 @@
 		- [[Anomaly detection]]
 		- Acquiring the meaning of words (word embeddings?)
 		- Data generation
+- **Cards**
+	- What is main goal of autoencoder? #card
