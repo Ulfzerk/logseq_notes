@@ -8,5 +8,9 @@
 	- **Classifying each word in a sentence**
 		- Identifying the grammatical components of a sentence (noun, verb, adjective)
 		- [[Named Entities Recognition]]
-		- Generating text content
-			- Completing a prompt with
+		-
+	- **Generating text content**
+		- Completing a prompt with auto-generated text, filling in the blanks in a text with masked words
+	- **Extracting an answer from a text**
+		- Given a question and a context, extracting the answer to the question based on the information provided in the context
+	-
