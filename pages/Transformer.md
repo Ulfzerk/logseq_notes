@@ -1,5 +1,4 @@
 - **How to use**
-	- (HuggingFace transformers library)[https://huggingface.co/]
-	-
+	- [HuggingFace Transformers Library](https://huggingface.co/)
 	-
 -
