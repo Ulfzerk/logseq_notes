@@ -8,4 +8,8 @@
 	- [[Transformer]]
 	- [[Dimensionality reduction]]
 	- [[Variational autoencoders]]
-	- Problem
+	- Autoencoders are applied to many problems like:
+		- [[Facial recognition]],
+		- [[Feature detection]]
+		- [[Anomaly detection]]
+		-
