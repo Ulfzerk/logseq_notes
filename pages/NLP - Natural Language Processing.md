@@ -1,2 +1,8 @@
 - What is NLP? #card
-	- NLP is a field of linguistics and machine learning focused on understanding everything related to hu
+	- NLP is a field of linguistics and machine learning focused on understanding everything related to human language. The aim of NLP tasks is not only to understand single words individually, but to be able to understand the context of those words.
+- NLP Tasks #card
+	- **Classifying whole sentences**
+		- Getting the sentiment of a review
+		- Detecting if an email is spam,
+		- determining if sentence is grammatically correct or whether two sentences are logically related or not
+	- **Classifying each word in a sentence
