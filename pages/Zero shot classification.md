@@ -5,5 +5,7 @@
 	- Uses pre-trained language model
 	- Can be thought of as an instance of transfer learning which generally refers to using a model trained for one task in a different application than what it was originally trained for. 
 	  This is particularly useful for situations where the amount of labeled data is small
-- **Useful for:**
 	-
+- **Useful for:**
+	- When we have small amount of labeled data
+- What is a diffrence between Zero shot classification and
