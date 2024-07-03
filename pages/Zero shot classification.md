@@ -6,7 +6,9 @@
 	- Can be thought of as an instance of transfer learning which generally refers to using a model trained for one task in a different application than what it was originally trained for. 
 	  This is particularly useful for situations where the amount of labeled data is small
 	- It is seem to be an emergent feature of [[LLMs]]
-	-
+		- This feature seems to come about around model sizes of +100M parameters
+			- Effectivness of a model at a zero, signle/few shot task seems to scale with model size,
+			  so bigger models
 - **Useful for:**
 	- When we have small amount of labeled data
 - **What is a difference between Zero shot classification and single/one few-shot classification** #card
