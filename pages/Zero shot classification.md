@@ -1,2 +1,3 @@
 - What is Zero-Shot Classification? #card
-	-
+	- Zero-shot text classification is a task in natural language processing where a model is trained on a set of labeled examples but is then able to classify new examples from previously **unseen** classes
+- About the Zero shot class
