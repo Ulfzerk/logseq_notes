@@ -13,4 +13,4 @@
 	  
 	  #output: [{'label': 'POSITIVE', 'score': 0.9598047137260437}]
 	  ```
-	- icon::🔥
+	- icon:: 🔥
