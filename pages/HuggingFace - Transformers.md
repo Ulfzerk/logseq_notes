@@ -19,5 +19,9 @@ icon:: 🤗
 	- predictions of the model are post-processed so you can make sense of them
 - **Available pipelines**:
 	- feature-extraction ([[word embeddings]])
-	- ()[[fill-mask]]
+	- (Fill mask)[[fill-mask]]
 	- (ner)[[Named entity recognition]]
+	- (question-answering)[[Question answering]]
+	- (sentiment-analysis)[[Sentiment analysis]]
+	- (summarization)[[Text summarization]]
+	-
