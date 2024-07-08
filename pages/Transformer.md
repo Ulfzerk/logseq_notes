@@ -21,6 +21,12 @@
 	- Architecture is a skeleton of the model, definition of each layer and each operation that happens within the model
 - What is a checkpoint? #card
 	- Checkpoint are weights that will be loaded in a given architecture.
-	-
+	- In most cases it is architecture specific!
+- What is a model? #card
+	- An umbrella term that isn't precise as 'architecture' or 'checkpoint', it can mean both.
+	- We can say a model is an aggregate of weights (checkpoint), task and architecture.
+-
+-
+-
 - **How to use**
 	- [[HuggingFace]]
