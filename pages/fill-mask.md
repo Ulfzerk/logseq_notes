@@ -1,0 +1,4 @@
+- The goal of this task it to predict a masked word or image pixels
+- Prompt with masked text:
+	- ```This is a <masked> word. Nobody knows it```
+	-
