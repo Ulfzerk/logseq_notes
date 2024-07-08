@@ -1,4 +1,8 @@
-- Transformers are special neural networks with attention layers
+- Transformers are special neural networks with attention layers.
+- General architecture of Transformer
+	- Encoder
+	- Decoder
+	- Encoder-decoder
 -
 - **How to use**
 	- [[HuggingFace]]
