@@ -1,5 +1,7 @@
 - What is a goal of fill mask task? #card
 	- The goal of this task it to predict a masked word or image pixels
+	  Example:
+	  `this is a <mask> word. Nobody knows that word.`
 - Prompt with masked text:
 	- ```This course will teach you all about <mask> models.```
 	- Possible output:
