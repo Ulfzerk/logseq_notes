@@ -8,4 +8,5 @@
 		  Answer:
 		  {'score': 0.6385916471481323, 'start': 33, 'end': 45, 'answer': 'Hugging Face'}
 		  ```
-- Note that this
+- Note that models learnt only on this task do not generate answer, but just extract it from context.
+-
