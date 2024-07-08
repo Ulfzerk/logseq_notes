@@ -1,2 +1,2 @@
 - What is a goal of Summarization task? #card
-	- Summarization is the task of reducing a text into a sharter text while keeping all (or most) of the impor
+	- Summarization is the task of reducing a text into a sharter text while keeping all (or most) of the important aspects referenced in the text.
