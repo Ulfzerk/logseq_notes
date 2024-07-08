@@ -1,0 +1,3 @@
+- What is Fine-tuning? #card
+	- It is a training done after model has been pretrained [[pretraining]]
+	-
