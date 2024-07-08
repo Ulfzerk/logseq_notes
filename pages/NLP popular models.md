@@ -1,4 +1,4 @@
-- This is a list of popular models which are nice to know
--
-- [[distilgpt2]]
+- This is a list of popular models which are nice to know:
+	- **Text generation:**
+		- [[distilgpt2]]
 -
