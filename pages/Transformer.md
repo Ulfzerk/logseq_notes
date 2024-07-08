@@ -13,7 +13,10 @@
 - What is attention layer? #card
 	- Special layers used in transformers.
 	- Introduced in paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 2017
-	- Tells model to pay specific attention to certain words in the sequence we pass. (or more/less ignore others) when dealing with word
+	- Tells model to pay specific attention to certain words in the sequence we pass. (or more/less ignore others) when dealing with word representation (embedding)
+- First Transformer was created for translation task.
+- ![Architecture of a Transformers models](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/transformers.svg)
+-
 -
 - **How to use**
 	- [[HuggingFace]]
