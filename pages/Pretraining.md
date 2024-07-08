@@ -1,0 +1,2 @@
+- What is a pretraining? #card
+	- Pretraining is the act of training a model from scratch: the weights are randomly initialized, and the training
