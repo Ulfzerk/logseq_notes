@@ -4,10 +4,11 @@
 		- The encoder receives an input and builds a representation of it (its features).
 		- This means that the model is optimized to acquire understanding from the input.
 		- [[Embieddings]]
+		- Is good for tasks that requires understanding of input, such as sentence classification or [[Named Entities Recognition]]
 	- Decoder
 		- The decoder uses the encoder representation (features) along with other inputs to generate a target sequence. This means that the model is optimized for generating outputs.
 	- Encoder-decoder
-		- When we use Decoder and Encoder in one transformer we
+		- When we use Decoder and Encoder in one transformer we can tell that we use Encoder-decoder architecture.
 -
 - **How to use**
 	- [[HuggingFace]]
