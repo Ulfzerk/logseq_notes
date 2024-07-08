@@ -1,0 +1,3 @@
+- What is a goal of Question answering task? #card
+	- Model trained on Question answering tasks are learnt to answer questions using information from a given context.
+	-
