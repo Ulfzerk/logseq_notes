@@ -5,7 +5,9 @@
 		- This means that the model is optimized to acquire understanding from the input.
 		- [[Embieddings]]
 	- Decoder
+		- The decoder uses the encoder representation (features) along with other inputs to generate a target sequence. This means that the model is optimized for generating outputs.
 	- Encoder-decoder
+		- When we use Decoder and Encoder in one transformer we
 -
 - **How to use**
 	- [[HuggingFace]]
