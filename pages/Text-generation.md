@@ -1,0 +1,2 @@
+- What is a goal of text generation? #card
+	- The main idea
