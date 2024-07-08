@@ -19,6 +19,7 @@
 	- Original Transformer architecture
 - What do we understand when we speak about transformer 'Architecture' #card
 	- Architecture is a skeleton of the model, definition of each layer and each operation that happens within the model
+	- Example of architecture: BERT, but can have different weights like bert-base-cased
 - What is a checkpoint? #card
 	- Checkpoint are weights that will be loaded in a given architecture.
 	- In most cases it is architecture specific!
