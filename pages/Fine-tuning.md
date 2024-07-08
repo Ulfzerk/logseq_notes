@@ -2,4 +2,6 @@
 	- It is a training done after model has been pretrained [[pretraining]]
 	- The goal is to train model to perform specific task after pretraining.
 - How to fine-tune a model? #card
-	- To perform fine-tuning, aquire
+	- To perform fine-tuning, acquire a pretrained model
+	- Perform additional training with dataset specific for a task e.g. classification
+-
