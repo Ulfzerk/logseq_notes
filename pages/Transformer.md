@@ -11,7 +11,9 @@
 	- Encoder-decoder
 		- When we use Decoder and Encoder in one transformer we can tell that we use Encoder-decoder architecture.
 - What is attention layer? #card
-	- Special layers used in
+	- Special layers used in transformers.
+	- Introduced in paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 2017
+	-
 -
 - **How to use**
 	- [[HuggingFace]]
