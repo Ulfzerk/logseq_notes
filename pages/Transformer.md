@@ -18,6 +18,9 @@
 - ![Architecture of a Transformers models](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/transformers.svg)
 	- Original Transformer architecture
 - What do we understand when we speak about transformer 'Architecture' #card
-	- Architecture is a skeleton of
+	- Architecture is a skeleton of the model, definition of each layer and each operation that happens within the model
+- What is a checkpoint? #card
+	- Checkpoint are weights that will be loaded in a given architecture.
+	-
 - **How to use**
 	- [[HuggingFace]]
