@@ -13,7 +13,7 @@
 - What is attention layer? #card
 	- Special layers used in transformers.
 	- Introduced in paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 2017
-	-
+	- Tells model to pay specific attention to certain words in the sequence we pass. (or more/less ignore others) when dealing with word
 -
 - **How to use**
 	- [[HuggingFace]]
