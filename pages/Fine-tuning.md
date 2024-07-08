@@ -8,5 +8,5 @@
 	- Pretrained model was already trained on dataset that has some similarities with the fine-tuning dataset.
 	- Fine-tuning requires less data than training from scrach
 	- For the same reason it is faster and cheaper.
-	- Example: pretrain on large corpus of english data, fine-tune it for NER [[Named Entities Recognition]] task.
+	- Example: pretrain on large corpus of English data, fine-tune it for NER [[Named Entities Recognition]] task.
 	-
