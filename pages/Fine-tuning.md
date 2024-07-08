@@ -1,3 +1,5 @@
 - What is Fine-tuning? #card
 	- It is a training done after model has been pretrained [[pretraining]]
-	-
+	- The goal is to train model to perform specific task after pretraining.
+- How to fine-tune a model? #card
+	- To perform fine-tuning, aquire
