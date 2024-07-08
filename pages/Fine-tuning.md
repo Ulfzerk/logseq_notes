@@ -4,4 +4,5 @@
 - How to fine-tune a model? #card
 	- To perform fine-tuning, acquire a pretrained model
 	- Perform additional training with dataset specific for a task e.g. classification
--
+- Why do we want to fine-tune a pretrained model instead of training model from scrach? #card
+	- Pretrained model was already trainedon dataset that has some similarities withe fine-tunining dataset
