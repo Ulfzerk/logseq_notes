@@ -5,4 +5,6 @@
 	- To perform fine-tuning, acquire a pretrained model
 	- Perform additional training with dataset specific for a task e.g. classification
 - Why do we want to fine-tune a pretrained model instead of training model from scrach? #card
-	- Pretrained model was already trainedon dataset that has some similarities withe fine-tunining dataset
+	- Pretrained model was already trained on dataset that has some similarities with the fine-tuning dataset.
+	- Fine-tuning requires less data than training from scrach
+	- For the same reason it is faster.
