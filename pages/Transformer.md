@@ -31,3 +31,5 @@
 -
 - **How to use**
 	- [[HuggingFace]]
+- Sources
+	- [https://huggingface.co/learn/nlp-course/chapter1/4?fw=pt](HuggingFace learn)
