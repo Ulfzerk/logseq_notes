@@ -17,6 +17,7 @@
 - First Transformer was created for translation task.
 - ![Architecture of a Transformers models](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/transformers.svg)
 	- Original Transformer architecture
--
+- What do we understand when we speak about transformer 'Architecture' #card
+	- Architecture is a skeleton of
 - **How to use**
 	- [[HuggingFace]]
