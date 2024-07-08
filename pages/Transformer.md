@@ -1,7 +1,9 @@
 - Transformers are special neural networks with attention layers.
 - General architecture of Transformer
 	- Encoder
-		-
+		- The encoder receives an input and builds a representation of it (its features).
+		- This means that the model is optimized to acquire understanding from the input.
+		- [[Embieddings]]
 	- Decoder
 	- Encoder-decoder
 -
