@@ -1,6 +1,7 @@
 - Transformers are special neural networks with attention layers.
 - General architecture of Transformer
 	- Encoder
+		-
 	- Decoder
 	- Encoder-decoder
 -
