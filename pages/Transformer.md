@@ -7,8 +7,11 @@
 		- Is good for tasks that requires understanding of input, such as sentence classification or [[Named Entities Recognition]]
 	- Decoder
 		- The decoder uses the encoder representation (features) along with other inputs to generate a target sequence. This means that the model is optimized for generating outputs.
+		- Good for Generative tasks such as [[Text-generation]] [[Text summarization]]
 	- Encoder-decoder
 		- When we use Decoder and Encoder in one transformer we can tell that we use Encoder-decoder architecture.
+- What is attention layer? #card
+	- Special layers used in
 -
 - **How to use**
 	- [[HuggingFace]]
