@@ -1,0 +1,2 @@
+- What is Gibbs' inequality? #card
+	- In information theory, Gibbs inequality is a statement abhout information entropy of discrete probability distribution.
