@@ -1,1 +1,2 @@
-- What is a Forei
+- What is a Foreign constraint? #card
+	- It is a constraint that forbids to destroy a link between two rows, entities.
