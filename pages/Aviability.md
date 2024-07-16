@@ -1,1 +1,3 @@
-- Do końca sierpnia Lugi
+- Do końca sierpnia Luigi
+- Urlop wrzesień
+-
