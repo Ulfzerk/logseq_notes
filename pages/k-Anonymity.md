@@ -1,4 +1,6 @@
 - What is k-Anonymity? #card
 	- K-Anonymity is a data anonymization technique that is used to protect individuals privacy in a dataset. It involves data generalization, data masking or replacing Personally Identifiable information (PII), with pseudonym to ensure no single individual can be identified.
 - When dataset is k-anonymous? #card
-	- A dataset is considered K anonymous when, for every combination of identifying attributes in a dataset, there are at least "K - 1" other people with the same attributes. In the words, the data is not unique to a certain in
+	- A dataset is considered K anonymous when, for every combination of identifying attributes in a dataset, there are at least "K - 1" other people with the same attributes. In the words, the data is not unique to a certain individual, and therefore can't be used to identify them.
+- How does K-anonmymit works? #card
+	- K anonymity technique works by grouping similar individuals together and generalizing, or suppresing
