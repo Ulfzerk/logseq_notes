@@ -1,3 +1,4 @@
 - What is a Linkage attack? #card
-	- Linkage attacks are using a
+	- Linkage attacks are using auxiliary (addtional) data to re-identify de-identified data.
+	- For example if we know someones birth data and his
 -
