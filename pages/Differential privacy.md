@@ -1,4 +1,5 @@
 - What is Differential privacy? #card
 	- Property of algorithms not data
-	-
+	- Algorithm satisfies differential privacy when dataset produced by this algorithm satisfies differential privacy.
+	- We can se that a mechanism F satis
 	-
