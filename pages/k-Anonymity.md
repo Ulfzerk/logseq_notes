@@ -18,4 +18,5 @@
 		- Can be susceptible to attacks and unintentional breaches by insiders who have access to the anonymized data and additional information.
 	- It's expensive to check with ${O(n^2)}$ complexity
 	- Homogeneity attacks
+		- It leverages the case where all the values for a sensitive value within a set of k records are identical. In such cases, even tho
 	-
