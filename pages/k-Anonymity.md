@@ -20,5 +20,5 @@
 	- Homogeneity attacks
 		- It leverages the case where all the values for a sensitive value within a set of k records are identical. In such cases, even though the data has been k-anonymized, the sensitive value for the set of k records may be exactly predicted
 	- Background Knowledge Attack
-		- Leverages an association between one or more quasi-identifier attributes with the sensitive attribute to reduce the set of possbile values for the sensitive attribute.
+		- Leverages an association between one or more quasi-identifier attributes with the sensitive attribute to reduce the set of possible values for the sensitive attribute.
 	-
