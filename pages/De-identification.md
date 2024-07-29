@@ -1,4 +1,5 @@
 - What is De-indentifaction? #card
 	- De-identification is the process of removing identifying information from a dataset
 	- It sometimes is used synonymously with the terms anonymization and pseudoanymization
+	-
 -
