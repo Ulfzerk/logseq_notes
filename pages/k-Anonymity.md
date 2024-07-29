@@ -7,6 +7,11 @@
 - What are main issues with k-anonymity? #card
 	- Outliers make achieving k-anonymity very challenging, even for large datasets. Optimal generalization for k-anonymity is NP-Hard
 	- Finding the right K
+		-
 	- Risk of re-identification
 		- As K increases the risk of re-identification decreases, but it's never eliminated.
-		- So K anonymity can't
+		- So K anonymity can't guarantee 100% privacy proctection.
+		- Linkage attacks
+	- Diminished data utlility
+		- K anonymity can lead to reduced data functionality because some information may need to be altered to achieve the desired level of anonymity.
+	-
