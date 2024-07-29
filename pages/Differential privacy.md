@@ -5,7 +5,9 @@
 	  $\frac{P(F(x) \in S}{P(F(x') \in S}$
 	- It states that F's (algorithm/transformation) will be pretty much the same with or without the data of any specific individual.
 	- Randomness built into F shoud be "enough" so that an observed output from F will not reveal which of x or x' was the input.
-- \epsilon
+- \epsilon is a privacy parameter / privacy budget.
+	- This is a knob to tune the "amount of privacy".
+	- Small values of \epsilon require F to provide very similar outputs when given similar inputs. A
 -
 -
 -
