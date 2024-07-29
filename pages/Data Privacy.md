@@ -8,5 +8,6 @@
 - Methods for improving privacy
 	- Aggregation
 		- Problem of Small groups
+			- Aggregation is supposed to improve privacy because it's hard to
 	- [[De-identification]]
 	-
