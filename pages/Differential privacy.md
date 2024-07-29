@@ -7,7 +7,11 @@
 	- Randomness built into F shoud be "enough" so that an observed output from F will not reveal which of x or x' was the input.
 - \epsilon is a privacy parameter / privacy budget.
 	- This is a knob to tune the "amount of privacy".
-	- Small values of \epsilon require F to provide very similar outputs when given similar inputs. A
+	- Small values of \epsilon require F to provide very similar outputs when given similar inputs. And therefore provide higher level of privacy.
+	- Large values of \epsilon allows less similarity in the outputs and therefore provide less privacy
+	- How much \epsilon is enough?
+		- nobody knows
+		- con
 -
 -
 -
