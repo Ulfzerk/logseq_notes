@@ -1,1 +1,2 @@
-- What is k-Anony
+- What is k-Anonymity? #card
+	- K-Anonymity is a data ano
