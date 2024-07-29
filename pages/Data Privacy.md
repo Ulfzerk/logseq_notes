@@ -15,4 +15,5 @@
 	- [[Linkage Attacks]] / re-identification
 	- Differencing Attacks
 		- Usage of multiple aggregate statistics over the same data can lead to privacy leakage
--
+- Releasing data that is useful makes ensuring privacy very difficult
+- Distinguishing between malicious and non-malicious queries is not possible
