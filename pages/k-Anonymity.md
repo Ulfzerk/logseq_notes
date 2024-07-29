@@ -16,4 +16,6 @@
 		- K anonymity can lead to reduced data functionality because some information may need to be altered to achieve the desired level of anonymity.
 	- Vulnerablility to insider threats
 		- Can be susceptible to attacks and unintentional breaches by insiders who have access to the anonymized data and additional information.
-	- It's expensive to check with $\math{O(n^2)}
+	- It's expensive to check with ${O(n^2)}$ complexity
+	- Homogeneity attacks
+	-
