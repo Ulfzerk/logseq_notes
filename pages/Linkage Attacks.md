@@ -1,1 +1,3 @@
+- What is a Linkage attack? #card
+	- Linkage attacks are using a
 -
