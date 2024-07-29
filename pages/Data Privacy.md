@@ -11,9 +11,12 @@
 			- Aggregation is supposed to improve privacy because it's hard to identify the contirbution of a particular individual to the aggregate statistics. But aggregation over group with one person breaks it.
 			-
 	- [[De-identification]]
+	- [[k-Anonymity]]
+	-
 - Possible attacks
 	- [[Linkage Attacks]] / re-identification
 	- Differencing Attacks
 		- Usage of multiple aggregate statistics over the same data can lead to privacy leakage
 - Releasing data that is useful makes ensuring privacy very difficult
 - Distinguishing between malicious and non-malicious queries is not possible
+-
