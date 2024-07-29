@@ -3,4 +3,6 @@
 - When dataset is k-anonymous? #card
 	- A dataset is considered K anonymous when, for every combination of identifying attributes in a dataset, there are at least "K - 1" other people with the same attributes. In the words, the data is not unique to a certain individual, and therefore can't be used to identify them.
 - How does K-anonmymit works? #card
-	- K anonymity technique works by grouping similar individuals together and generalizing, or suppresing
+	- K anonymity technique works by grouping similar individuals together and generalizing, or suppresing, data fields that contain identyfing information.
+- What are main issues with k-anonymity? #card
+	- Outliers are hard to
