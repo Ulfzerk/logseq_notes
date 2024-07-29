@@ -12,5 +12,7 @@
 			-
 	- [[De-identification]]
 - Possible attacks
-	- [[Linkage Attacks]]
-	-
+	- [[Linkage Attacks]] / re-identification
+	- Differencing Attacks
+		- Usage of multiple aggregate statistics over the same data can lead to privacy leakage
+-
