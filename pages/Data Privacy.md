@@ -8,6 +8,7 @@
 - Methods for improving privacy
 	- Aggregation
 		- Problem of Small groups
-			- Aggregation is supposed to improve privacy because it's hard to
+			- Aggregation is supposed to improve privacy because it's hard to identify the contirbution of a particular individual to the aggregate statistics. But aggregation over group with one person breaks it.
+			-
 	- [[De-identification]]
 	-
