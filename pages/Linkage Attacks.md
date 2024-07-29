@@ -2,4 +2,4 @@
 	- Linkage attacks are using auxiliary (addtional) data to re-identify de-identified data.
 	- For example if we know someones birth data and his zip-code, it might be possible to re-identify his data.
 	- The more auxiliary data we have, the easier it is to perform this kind of attack
--
+- It diffrent datasets, some attributes can be very selective. We can
