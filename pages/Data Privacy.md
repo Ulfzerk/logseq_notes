@@ -5,3 +5,7 @@
 	- What is a distinction between security and privacy? #card
 		- Privacy techniques involve an intentional release of information and attempt to control what can be learned from that realse
 		- secruity techniques usually prevent the lrealse of information and control who can access data.
+- Methods for improving privacy
+	- Aggregation
+		- Problem of Small groups
+	- [[De-identification]]
