@@ -11,7 +11,7 @@
 	- Large values of \epsilon allows less similarity in the outputs and therefore provide less privacy
 	- How much \epsilon is enough?
 		- nobody knows
-		- con
+		- General consensus is that \epsilon should be around 1 or smaller and values abouve 10 probably don't do much to protect privacy.
 -
 -
 -
