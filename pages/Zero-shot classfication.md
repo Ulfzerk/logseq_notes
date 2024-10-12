@@ -38,5 +38,6 @@
 	- In what fields is zero-shot classification commonly applied? #card
 		- It is used in fields like image classification, text classification, and action recognition.
 	- Why is zero-shot classification useful in dynamic environments? #card
+	  collapsed:: true
 		- It allows models to generalize to new categories without retraining, making it suitable for environments where new categories frequently emerge.
 -
