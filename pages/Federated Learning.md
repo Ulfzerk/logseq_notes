@@ -1,0 +1,3 @@
+- What is a goal of Federated Learning? #card
+	-
+- https://miroslawmamczur.pl/co-to-jest-uczenie-federacyjne-federated-learning/
