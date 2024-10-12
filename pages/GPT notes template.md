@@ -1,7 +1,7 @@
 - Note generation:
 	- ```Create a note about {topic}```
 - cards prompt
-	- ````markdown
+	- ```markdown
 	  I'm using logseq software for notes, which allows to make flash cards. 
 	  It uses markdown for notes. 
 	  
@@ -16,5 +16,5 @@
 	  Instruction:
 	  Based on above pattern create a set of markdown flash cards about self-supervised learning
 	  Avoid creation of cards about examples.
-	  ````
-		-
+	  ```
+	-
