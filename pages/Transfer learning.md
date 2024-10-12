@@ -49,3 +49,10 @@ Transfer learning is a machine learning technique where a model developed for a 
 - ## Conclusion
   
   Transfer learning is a powerful technique that allows models to leverage previously acquired knowledge, making it especially useful in situations where data is scarce or training from scratch would be time-consuming. It has been highly successful in areas like NLP, computer vision, and speech recognition.
+- # References
+- [[Fine-tuning]]
+- [[Pretraining]]
+- [[HuggingFace - Transformers]]
+- [[NLP popular models]]
+- [[Computer Vision]]
+-
