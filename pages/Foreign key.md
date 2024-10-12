@@ -1,0 +1,3 @@
+- What is a Foreign constraint? #card
+	- It is a constraint that forbids to destroy a link between two rows, entities.
+	- It ensures that data stored in the child table (which contains the foreign key) remains consistent with the data in the parent table (which contains primary key)

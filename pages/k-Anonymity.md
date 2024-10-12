@@ -1,0 +1,24 @@
+- What is k-Anonymity? #card
+	- K-Anonymity is a data anonymization technique that is used to protect individuals privacy in a dataset. It involves data generalization, data masking or replacing Personally Identifiable information (PII), with pseudonym to ensure no single individual can be identified.
+- When dataset is k-anonymous? #card
+	- A dataset is considered K anonymous when, for every combination of identifying attributes in a dataset, there are at least "K - 1" other people with the same attributes. In the words, the data is not unique to a certain individual, and therefore can't be used to identify them.
+- How does K-anonmymit works? #card
+	- K anonymity technique works by grouping similar individuals together and generalizing, or suppresing, data fields that contain identyfing information.
+- What are main issues with k-anonymity? #card
+	- Outliers make achieving k-anonymity very challenging, even for large datasets. Optimal generalization for k-anonymity is NP-Hard
+	- Finding the right K
+		- It can be difficult without expert knowledge
+	- Risk of re-identification
+		- As K increases the risk of re-identification decreases, but it's never eliminated.
+		- So K anonymity can't guarantee 100% privacy proctection.
+		- Linkage attacks
+	- Diminished data utlility
+		- K anonymity can lead to reduced data functionality because some information may need to be altered to achieve the desired level of anonymity.
+	- Vulnerablility to insider threats
+		- Can be susceptible to attacks and unintentional breaches by insiders who have access to the anonymized data and additional information.
+	- It's expensive to check with ${O(n^2)}$ complexity
+	- Homogeneity attacks
+		- It leverages the case where all the values for a sensitive value within a set of k records are identical. In such cases, even though the data has been k-anonymized, the sensitive value for the set of k records may be exactly predicted
+	- Background Knowledge Attack
+		- Leverages an association between one or more quasi-identifier attributes with the sensitive attribute to reduce the set of possible values for the sensitive attribute.
+	-

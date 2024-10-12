@@ -1,4 +1,35 @@
-- Transformers are special neural networks with attention layers
+- Transformers are special neural networks with attention layers.
+- General architecture of Transformer
+	- Encoder
+		- The encoder receives an input and builds a representation of it (its features).
+		- This means that the model is optimized to acquire understanding from the input.
+		- [[Embieddings]]
+		- Is good for tasks that requires understanding of input, such as sentence classification or [[Named Entities Recognition]]
+	- Decoder
+		- The decoder uses the encoder representation (features) along with other inputs to generate a target sequence. This means that the model is optimized for generating outputs.
+		- Good for Generative tasks such as [[Text-generation]] [[Text summarization]]
+	- Encoder-decoder
+		- When we use Decoder and Encoder in one transformer we can tell that we use Encoder-decoder architecture.
+- What is attention layer? #card
+	- Special layers used in transformers.
+	- Introduced in paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 2017
+	- Tells model to pay specific attention to certain words in the sequence we pass. (or more/less ignore others) when dealing with word representation (embedding)
+- First Transformer was created for translation task.
+- ![Architecture of a Transformers models](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/transformers.svg)
+	- Original Transformer architecture
+- What do we understand when we speak about transformer 'Architecture' #card
+	- Architecture is a skeleton of the model, definition of each layer and each operation that happens within the model
+	- Example of architecture: BERT, but can have different weights like bert-base-cased
+- What is a checkpoint? #card
+	- Checkpoint are weights that will be loaded in a given architecture.
+	- In most cases it is architecture specific!
+- What is a model? #card
+	- An umbrella term that isn't precise as 'architecture' or 'checkpoint', it can mean both.
+	- We can say a model is an aggregate of weights (checkpoint), task and architecture.
+-
+-
 -
 - **How to use**
 	- [[HuggingFace]]
+- Sources
+	- [https://huggingface.co/learn/nlp-course/chapter1/4?fw=pt](HuggingFace learn)

@@ -1,0 +1,12 @@
+- What is Fine-tuning? #card
+	- It is a training done after model has been pretrained [[pretraining]]
+	- The goal is to train model to perform specific task after pretraining.
+- How to fine-tune a model? #card
+	- To perform fine-tuning, acquire a pretrained model
+	- Perform additional training with dataset specific for a task e.g. classification
+- Why do we want to fine-tune a pretrained model instead of training model from scrach? #card
+	- Pretrained model was already trained on dataset that has some similarities with the fine-tuning dataset.
+	- Fine-tuning requires less data than training from scrach
+	- For the same reason it is faster and cheaper.
+	- Example: pretrain on large corpus of English data, fine-tune it for NER [[Named Entities Recognition]] task.
+	-

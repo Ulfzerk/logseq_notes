@@ -1,0 +1,4 @@
+- What is a goal of text generation? #card
+	- The main idea is that you provide a prompt and the model will auto-complete it by generating the remaining text.
+- Randomness
+	- Text generation often involves randomness
