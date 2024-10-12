@@ -55,4 +55,10 @@ Transfer learning is a machine learning technique where a model developed for a 
 - [[HuggingFace - Transformers]]
 - [[NLP popular models]]
 - [[Computer Vision]]
+- Potencial references:
+	- [[Domain Adaptation]]
+	- [[Multi-task Learning]]
+	- [[Negative Transfer]]
+	- [[Overfitting]]
+	- [[Transferable Knowledge]]
 -
