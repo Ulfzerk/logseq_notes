@@ -16,3 +16,9 @@
 	- abc (abstract base class)
 		- inheritence etc.
 - Function params -> function(x , / ) - it means that this function is not supposed to receive keywards arguments. https://peps.python.org/pep-0570/
+-
+- # My Setup
+	- ```python
+	  pip install jupyter
+	  
+	  ```
