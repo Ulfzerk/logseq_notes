@@ -12,7 +12,7 @@ def list_md_files(directory, output_file):
                     f.write(os.path.splitext(file)[0] + '\n')
 
 # Define the directory to search and output file path
-directory = '.'  # Change this to your target directory
+directory = fr'C:\Users\Ulfzerk\Documents\logseq_notes\pages'
 output_file = 'node_names.txt'
 
 # Call the function
