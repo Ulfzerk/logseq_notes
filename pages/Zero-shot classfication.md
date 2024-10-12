@@ -8,4 +8,13 @@
 - **Examples**
 	- Consider a model trained to classify animals into known categories like "dog," "cat," and "horse." Now, it's asked to classify a new animal, say "zebra," for which it has not seen any training examples. The model is provided with a description of a "zebra" such as "an animal with black and white stripes." Using this description and its knowledge of known classes, the model can infer that the unseen category "zebra" is different from the others and correctly classify it as a "zebra."
 	- A model is trained to classify sentiments into predefined categories such as "positive" and "negative." However, during inference, it is asked to classify text into a new sentiment, like "sarcastic." Even though it was never trained specifically on the "sarcastic" label, the model could be given a description of sarcasm and use this information to recognize and label new instances of sarcasm.
-	-
+- ### **Applications:**
+	- **Image Classification:** In visual tasks, zero-shot models can classify unseen objects or species by leveraging semantic embeddings (e.g., word2vec) of class names.
+	- **Text Classification:** In NLP, zero-shot learning can be applied to text categorization problems where new topics or themes are introduced without labeled examples.
+	- **Action Recognition:** For tasks like video understanding, zero-shot learning can help identify new actions based on descriptions (e.g., "cooking" or "dancing") without labeled video data.
+- ### **Advantages:**
+	- **Scalability:** Zero-shot learning eliminates the need for extensive labeled data for every possible class.
+	- **Flexibility:** Models can generalize to new categories without retraining, which is especially valuable in dynamic environments where new categories frequently emerge.
+- ### **Challenges:**
+- **Accuracy:** Zero-shot models might struggle with classes that are semantically similar but differ in subtle ways, especially if the provided descriptions or embeddings are not sufficiently discriminative.
+- **Domain Shift:** There can be a mismatch between the distribution of seen and unseen classes, which may reduce performance when moving to novel classes.
