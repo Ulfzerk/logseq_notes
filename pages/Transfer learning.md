@@ -28,7 +28,4 @@
 - ### Limitations:
 - **Task Similarity**: Transfer learning is most effective when the tasks are related. A pre-trained model for images may not perform well for tasks like text processing.
 - **Overfitting Risk**: Fine-tuning too much on the new task may cause the model to lose the general patterns learned from the original dataset.
-  
-  ---
-  
-  **In Summary**: Transfer learning allows AI models to benefit from previously learned knowledge, leading to faster training, better performance, and effective use of limited data, especially in tasks like image recognition, NLP, and beyond.
+- **In Summary**: Transfer learning allows AI models to benefit from previously learned knowledge, leading to faster training, better performance, and effective use of limited data, especially in tasks like image recognition, NLP, and beyond.
