@@ -20,3 +20,23 @@
 	- **Domain Shift:** There can be a mismatch between the distribution of seen and unseen classes, which may reduce performance when moving to novel classes.
 - **Summary**
 	- In summary, zero-shot classification allows models to predict new, unseen classes using semantic knowledge or descriptions, making it a powerful technique for tasks where exhaustive labeled data is hard to obtain.
+- # cards
+	- What is zero-shot classification? #card
+		- A type of classification where a model can recognize and categorize instances from classes it has never seen before during training.
+	- How does zero-shot classification differ from traditional classification? #card
+		- Zero-shot classification generalizes to unseen classes using semantic information, while traditional classification requires labeled examples for every class during training.
+	- What type of information allows a zero-shot model to classify unseen categories? #card
+		- Semantic information such as word embeddings, textual descriptions, or attributes that capture relationships between known and unknown classes.
+	- What is the first step in zero-shot classification? #card
+		- Pretraining the model on a set of known classes with labeled examples.
+	- How does a zero-shot model make predictions on unseen classes? #card
+		- It leverages semantic relationships or external knowledge to infer similarities between seen and unseen classes, allowing it to classify new instances.
+	- What are the benefits of zero-shot classification? #card
+		- Scalability and flexibility, as the model can classify new categories without needing labeled examples for each new class.
+	- What are the main challenges in zero-shot classification? #card
+		- Accuracy can be lower for semantically similar classes, and domain shift can reduce performance when the distribution of seen and unseen classes differs significantly.
+	- In what fields is zero-shot classification commonly applied? #card
+		- It is used in fields like image classification, text classification, and action recognition.
+	- Why is zero-shot classification useful in dynamic environments? #card
+		- It allows models to generalize to new categories without retraining, making it suitable for environments where new categories frequently emerge.
+-
