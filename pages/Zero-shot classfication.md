@@ -1,0 +1,4 @@
+- Zero-shot classification is a type of machine learning task where a model is required to classify instances into categories that were not seen during training. This technique is particularly useful when labeling new or unseen classes is impractical, and it allows models to generalize to new situations based on high-level descriptions or knowledge.
+  
+  In zero-shot learning, the model leverages semantic information or external knowledge (like word embeddings, textual descriptions, or attributes) about the unseen classes to make predictions. This differs from traditional classification, where the model is trained with labeled examples for every class it will encounter during inference.
+-
