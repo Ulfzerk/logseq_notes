@@ -30,5 +30,6 @@
 	  card-next-schedule:: 2024-07-07T09:39:01.300Z
 	  card-last-reviewed:: 2024-07-03T09:39:01.300Z
 	  card-last-score:: 3
+	  collapsed:: true
 		- Encoder - learning latent representation of the data
 		  Decoder - learning how to recreate data from latent representation

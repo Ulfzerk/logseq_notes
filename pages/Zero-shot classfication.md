@@ -16,5 +16,7 @@
 	- **Scalability:** Zero-shot learning eliminates the need for extensive labeled data for every possible class.
 	- **Flexibility:** Models can generalize to new categories without retraining, which is especially valuable in dynamic environments where new categories frequently emerge.
 - ### **Challenges:**
-- **Accuracy:** Zero-shot models might struggle with classes that are semantically similar but differ in subtle ways, especially if the provided descriptions or embeddings are not sufficiently discriminative.
-- **Domain Shift:** There can be a mismatch between the distribution of seen and unseen classes, which may reduce performance when moving to novel classes.
+	- **Accuracy:** Zero-shot models might struggle with classes that are semantically similar but differ in subtle ways, especially if the provided descriptions or embeddings are not sufficiently discriminative.
+	- **Domain Shift:** There can be a mismatch between the distribution of seen and unseen classes, which may reduce performance when moving to novel classes.
+- **Summary**
+	- In summary, zero-shot classification allows models to predict new, unseen classes using semantic knowledge or descriptions, making it a powerful technique for tasks where exhaustive labeled data is hard to obtain.
